@@ -49,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other Services and Experiences
 ======
-* Currently signed in to 43 different slack teams
+* Education Committee Member of Enerwat (http://enerwat.sharif.ir/?lang=en)
