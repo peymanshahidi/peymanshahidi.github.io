@@ -1,5 +1,5 @@
 ---
-title: "Lecturer of OLG models"
+title: "Lecturer of Overlapping Generations (OLG) models"
 collection: teaching
 type: "Introduction to OLG models for Financial Economics II students"
 permalink: /teaching/2019-olg-teaching
