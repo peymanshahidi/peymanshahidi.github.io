@@ -51,4 +51,4 @@ Teaching
   
 Other Services and Experiences
 ======
-* Education Committee Member of Enerwat (http://enerwat.sharif.ir/?lang=en)
+* Education Committee Member of [Sharif Event on Water and Energy Nexus -- Enerwat 2016](http://enerwat.sharif.ir/?lang=en)
