@@ -1,5 +1,5 @@
 ---
-title: "2020 - Lecturer of Overlapping Generations (OLG) models"
+title: "2020 - Lecturer of Overlapping Generations (OLG) models [Macro I]"
 collection: teaching
 type: "Introduction to OLG models for Macroeconomics I students"
 permalink: /teaching/2020-olg-teaching
