@@ -10,6 +10,6 @@ location: "Tehran, Iran"
 ---
 
 
-This is a paper reading, summarizing, and presenting skills introduction targeting "Macroeconomics I" students.
+This is a [paper reading], [summarizing], and [presentating skills] introduction targeting "Macroeconomics I" students.
 
 [Download slides here](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
