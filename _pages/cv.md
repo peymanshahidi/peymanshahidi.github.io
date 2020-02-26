@@ -49,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Other Services and Experiences
+Other Works and Experiences
 ======
-* Education Committee Member of [Sharif Event on Water and Energy Nexus -- Enerwat 2016](http://enerwat.sharif.ir/?lang=en)
+* Education Committee Member of [Sharif Event on Water and Energy Nexus - Enerwat 2016](http://enerwat.sharif.ir/?lang=en)
