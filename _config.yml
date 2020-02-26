@@ -247,7 +247,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _writingsamples
@@ -255,7 +255,7 @@ defaults:
       path: ""
       type: writingsamples
     values:
-      layout: writingsamples
+      layout: single
       author_profile: true
       share: true
    # _presentations
@@ -263,7 +263,7 @@ defaults:
       path: ""
       type: presentations
     values:
-      layout: presentations
+      layout: single
       author_profile: true
       share: true
 
