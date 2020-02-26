@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 
-I am currently a second year M.Sc. student of Economics at Tehran Institute for Advanced Studies (TeIAS), Khatam University, Tehran, Tehran, Iran.
+I am currently a second year M.Sc. student of *Economics* at [Tehran Institute for Advanced Studies (TeIAS)](https://teias.institute), Khatam University, Tehran, Tehran, Iran.
+I have obtained my B.Sc. Major in *Electrical Engineering* and Minor in *Economics* from [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Tehran, Iran.
 
-My primary fields of interest are applied microeconomics and public finance. My secondary fields of interest are household finance and corporate finance.
+My primary fields of interest are applied macroeconomics and public finance. My secondary fields of interest are household finance and corporate finance.
