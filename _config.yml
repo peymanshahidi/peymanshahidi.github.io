@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Peyman Shahidi"
-  avatar           : "Avatar.jpg"
-  bio              : "I am a second year M.Sc. student of Economics at TeIAS."
+  avatar           : "profile.png"
+  bio              : "I am a second year M.Sc. student of Economics at Tehran Institute for Advanced Studies (TeIAS), Khatam University."
   location         : "Tehran, Iran."
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  writingsamples:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _writingsamples
+  - scope:
+      path: ""
+      type: writingsamples
+    values:
+      layout: writingsamples
       author_profile: true
       share: true
 
