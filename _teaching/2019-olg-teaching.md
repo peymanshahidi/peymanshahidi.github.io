@@ -9,8 +9,6 @@ paperurl: 'http://peymanshahidi.github.io/files/OLGLecture-18Nov2019.pdf'
 location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This introduction to OLG models was part of the "Financial Economics II" course.
 
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://peymanshahidi.github.io/files/OLGLecture-18Nov2019.pdf)
+[Download notes here](http://peymanshahidi.github.io/files/OLGLecture-18Nov2019.pdf)
