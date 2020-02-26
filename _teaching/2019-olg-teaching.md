@@ -1,11 +1,11 @@
 ---
 title: "Lecturer of OLG models"
 collection: teaching
-type: "An introduction to OLG models for Financial Economics II students."
+type: "Introduction to OLG models for Financial Economics II students"
 permalink: /teaching/2019-olg-teaching
 venue: "TeIAS, Khatam University"
 date: 2019-11-18
-paperurl: 'http://academicpages.github.io/files/OLGLecture-18Nov2019.pdf'
+paperurl: 'http://peymanshahidi.github.io/files/OLGLecture-18Nov2019.pdf'
 location: "Tehran, Iran"
 ---
 
