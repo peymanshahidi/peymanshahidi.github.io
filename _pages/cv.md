@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Economics, Tehran Institute for Advanced Studies (TeIAS), Khatam University, Iran, 2020 (expected)
+* B.Sc. in Electerical Engineering (Major), Sharif University of Technology, Iran, 2018
+* B.Sc. in Economics (Minor), Sharif University of Technology, Iran, 2018
 
 Work experience
 ======
