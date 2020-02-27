@@ -3,7 +3,9 @@ permalink: /
 title: "Peyman Shahidi"
 excerpt: "Peyman Shahidi's Website"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
