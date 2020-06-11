@@ -10,4 +10,7 @@ main:
     url: /presentations/ 
     
   - title: "Writing Samples"
-    url: /writingsamples/ 
+    url: /writingsamples/
+    
+  - title: "Codes"
+    url: /codes/ 
