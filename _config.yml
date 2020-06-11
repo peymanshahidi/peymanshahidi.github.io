@@ -193,6 +193,9 @@ collections:
   presentations:
     output: true
     permalink: /:collection/:path/
+  codes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -262,6 +265,14 @@ defaults:
   - scope:
       path: ""
       type: presentations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+   # _codes
+  - scope:
+      path: ""
+      type: codes
     values:
       layout: single
       author_profile: true
