@@ -3,6 +3,7 @@ title: "Change in Online Taxi Drivers' Labor Supply: Learning or Price Effect? E
 collection: writingsamples
 type: "Paper Presentation and Summarizing Guidelines for Macroeconomics I students"
 permalink: /writingsamples/tapsilearning2020
+excerpt: 'This is a one line exceprt.'
 date: 2020-06-12
 venue: 'Thesis'
 paperurl: 'https://www.dropbox.com/s/j35pgr4ppfpy784/Peyman%20Shahidi%20-%20Proposal%202nd%20Draft.pdf?dl=0'
