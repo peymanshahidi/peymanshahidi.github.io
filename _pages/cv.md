@@ -39,15 +39,15 @@ Programming and Computer Skills
 Selected Graduate Courses
 ======
 * Econometrics II (Spring 2019)
-  * Prof. F. Haghpanah
+  * Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>
 * Research Method (Fall 2019)
-  * Prof. B. Kamali Shahdadi
+  * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
 * Contract Theory (Fall 2019)
-  * Prof. B. Kamali Shahdadi 
+  * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
 * Financial Economics II (Fall 2019)
-  * Prof. F. Haghpanah 
+  * Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>
 * <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" target="_blank" rel="noopener noreferrer">Search Models: Introduction to Theory and Quantitative Methods (Fall 2019)</a>
-  * Prof. H. Joshaghani and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
+  * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
 
 
 Short Courses
