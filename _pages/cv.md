@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Economics, Tehran Institute for Advanced Studies (TeIAS), Khatam University, Iran, 2020 (expected)
-* B.Sc. in Electerical Engineering (Major), Sharif University of Technology, Iran, 2018
-* B.Sc. in Economics (Minor), Sharif University of Technology, Iran, 2018
+* 2020: M.Sc. in Economics, Tehran Institute for Advanced Studies (TeIAS), Khatam University, Iran, 
+* 2018: B.Sc. in Electerical Engineering (Major), Sharif University of Technology, Iran, 2018
+* 2018: B.Sc. in Economics (Minor), Sharif University of Technology, Iran, 2018
 
 Honors
 ======
@@ -24,8 +24,7 @@ Honors
 Programming and Computer Skills
 ======
 * Skilled Programmer in
-  * Python
-  * Stata
+  * Python * Stata
   * R
   * Matlab
   * Octave
