@@ -15,17 +15,11 @@ Education
 * B.Sc. in Electerical Engineering (Major), Sharif University of Technology, Iran, 2018
 * B.Sc. in Economics (Minor), Sharif University of Technology, Iran, 2018
 
-Work experience
+Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Fellowship – Economics Department, TeIAS, Tehran, Iran.
+* 2018: Ranked 5th in Iran’s M.Sc. University Entrance Exam, among more than 3,000 participants. (Top 0.2%)
+* 2013: Ranked $113^th$ in Iran’s B.Sc. University Entrance Exam, among more than 250,000 participants. (Top 0.05%)
   
 Programming and Computer Skills
 ======
@@ -103,7 +97,7 @@ References
 * Behrang Kamali Shahdadi 
   * Assistant Professor of Economics & Finance at TeIAS
   * Ph.D. University of Pennsylvania (Economics)
-* Hosein Joshaghani
+* Hosein Joshaghani - M.Sc. Thesis Advisor
   * Assistant Professor of Economics & Finance at TeIAS
   * Ph.D. University of Chicago (Economics)
 * Farshad Haghpanah
