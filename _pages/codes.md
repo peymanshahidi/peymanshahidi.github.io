@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
+Stata Codes
 ======
   <ul>{% for post in site.codes %}
     {% include archive-single-cv.html %}
