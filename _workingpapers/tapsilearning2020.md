@@ -1,11 +1,10 @@
 ---
 title: "Change in Online Taxi Drivers' Labor Supply: Learning or Price Effect? Evidence from Tapsi."
-collection: writingsamples
+collection: workingpapers
 type: "Paper Presentation and Summarizing Guidelines for Macroeconomics I students"
-permalink: /writingsamples/tapsilearning2020
+permalink: /workingpapers/tapsilearning2020
 excerpt: 'I study the ride acceptance behavior of online taxi drivers, allowing them to update their beliefs about wage distribution of offers in the process of dcision making.'
 date: 2020-06-12
-venue: 'Thesis'
 paperurl: 'https://www.dropbox.com/s/j35pgr4ppfpy784/Peyman%20Shahidi%20-%20Proposal%202nd%20Draft.pdf?dl=0'
 ---
 
