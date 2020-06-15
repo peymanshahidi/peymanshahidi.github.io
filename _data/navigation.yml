@@ -6,11 +6,11 @@ main:
   - title: "Teaching Experience"
     url: /teaching/
     
-  - title: "Presentations"
+  - title: "Seminar Presentations"
     url: /presentations/ 
     
-  - title: "Writing Samples"
-    url: /writingsamples/
+  - title: "Working Papers"
+    url: /workingpapers/
     
   - title: "Codes"
     url: /codes/ 
