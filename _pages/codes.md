@@ -10,7 +10,7 @@ author_profile: true
 Stata Codes
 ======
   <ul>{% for post in site.codes %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
 
