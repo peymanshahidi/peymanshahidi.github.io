@@ -12,5 +12,5 @@ date: 2020-06-16
 
 I develop a search model that accounts for online taxi drivers' belief about goodness of ride prices in their ride acceptance behavior. I discuss the properties of a dataset I have acquired form Tapsi, an Iranian ride-hailing company. Using this dataset, I will estimate the probability of ride acceptance for an average driver during different times of a working shift. Furthermore, the dataset allows me to decompose the effect of an exogenous price shock on drivers' ride acceptance patterns into two components: price effect and experience effect. In future steps of this research, the extent that each component determines short-term labor supply decision of drivers will be quantitatively measured using a regression discontinuity design.
 
-#### Last Update
-June 16, 2020
+### Last Update
+#### June 16, 2020
