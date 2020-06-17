@@ -2,7 +2,7 @@
 title: "Gregorian to Solar Jalali calendar converter"
 collection: codes
 permalink: /codes/greg2jal
-date: 2019-06-11
+date: 2020-06-11
 venue: 'Stata Codes'
 ---
 
