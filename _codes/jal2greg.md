@@ -1,5 +1,5 @@
 ---
-title: "Solar Jalali to Gregorian date converter"
+title: "Solar Jalali to Gregorian calendar converter"
 collection: codes
 permalink: /codes/jal2greg
 date: 2020-06-11
