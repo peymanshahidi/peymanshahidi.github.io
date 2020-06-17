@@ -2,7 +2,7 @@
 title: "Solar Jalali to Gregorian date converter"
 collection: codes
 permalink: /codes/jal2greg
-date: 2019-06-11
+date: 2020-06-11
 venue: 'Stata Codes'
 ---
 
