@@ -62,7 +62,7 @@ Short Courses
 * Information Design.
   * by <a href="https://www.personal.psu.edu/nuh47/" target="_blank" rel="noopener noreferrer">Nima Haghpanah</a> – Assistant Professor at Penn State University
 
-Programming and Computer Skills
+Language Skills
 ======
 * English (Fluent)
   * TOEFL iBT: (Taken Sep. 2017)
@@ -73,14 +73,14 @@ Programming and Computer Skills
     * Total: 107
 * Persian (Native)
 
-Writing Samples
+Working Papers
 ======
-  <ul>{% for post in site.writingsamples %}
+  <ul>{% for post in site.workingpapers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
