@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ---
-<br>
 
 Education
 ======
@@ -92,11 +91,11 @@ Other Works and Experiences
 
 References
 ======
-* <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">Behrang Kamali Shahdadi</a> (Ph.D. University of Pennsylvania - Economics)
+* <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">Behrang Kamali Shahdadi</a> (Ph.D. Economics from University of Pennsylvania)
   * Assistant Professor of Economics & Finance at TeIAS
-* <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> (Ph.D. University of Chicago - Economics) - M.Sc. Thesis Advisor
+* <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> Ph.D. Economics from University of Chicago) - M.Sc. Thesis Advisor
   * Assistant Professor of Economics & Finance at TeIAS
-* <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">Farshad Haghpanah</a> (Ph.D. University of Berkeley - Finance)
+* <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">Farshad Haghpanah</a> (Ph.D. Finance from University of Berkeley)
   * Assistant Professor of Economics & Finance at TeIAS
-* <a href="https://teias.institute/faculty/morovati/" target="_blank" rel="noopener noreferrer">Mohammad Morovati</a> (Ph.D. University of Texas at Austin - Economics, Post-Doc Stanford University)
+* <a href="https://teias.institute/faculty/morovati/" target="_blank" rel="noopener noreferrer">Mohammad Morovati</a> (Ph.D. Economics from University of Texas at Austin, Post-Doc from Stanford University)
   * Assistant Professor of Economics & Finance at TeIAS
