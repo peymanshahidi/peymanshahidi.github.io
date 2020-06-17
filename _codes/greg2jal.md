@@ -7,7 +7,7 @@ venue: 'Stata Codes'
 ---
 
 [[ADO file]](https://www.dropbox.com/s/1bjixzxoi3lo5ns/greg2jal.ado?dl=0)
-[Stata Help]
+[Stata help file]
 [Sample Data (for test)]
 [Do file (for test)]
 
