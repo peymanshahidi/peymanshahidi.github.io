@@ -95,7 +95,7 @@ References
   * Assistant Professor of Economics & Finance at TeIAS
 * <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> Ph.D. Economics from University of Chicago) - M.Sc. Thesis Advisor
   * Assistant Professor of Economics & Finance at TeIAS
-* <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">Farshad Haghpanah</a> (Ph.D. Finance from University of Berkeley)
+* <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">Farshad Haghpanah</a> (Ph.D. Finance from University of California, Berkeley)
   * Assistant Professor of Economics & Finance at TeIAS
 * <a href="https://teias.institute/faculty/morovati/" target="_blank" rel="noopener noreferrer">Mohammad Morovati</a> (Ph.D. Economics from University of Texas at Austin, Post-Doc from Stanford University)
   * Assistant Professor of Economics & Finance at TeIAS
