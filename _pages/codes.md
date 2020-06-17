@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ---
-<font size="6" color="green">Stata Codes</font>
+<font size="6" color="green">Stata</font>
 <br>
 
 <b>[Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg) </b><br>
@@ -15,5 +15,9 @@ This program creates Gregorian date from Solar Jalali input. <br>
 This program creates 3 Solar Jalali date variables (year, month, day) from Gregorian inputs. <br>
 
 ---
-<font size="6" color="green">Python Codes</font>
+<font size="6" color="green">Python</font>
+<br>
+
+---
+<font size="6" color="green">Dynare</font>
 <br>
