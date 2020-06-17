@@ -20,6 +20,17 @@ Honors
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
 * 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - Top 0.2%).
 * 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - Top 0.05%).
+
+Language Skills
+======
+* English (Fluent)
+  * TOEFL iBT: (Taken Sep. 2017)
+    * Reading: 28
+    * Listening: 26
+    * Speaking: 24
+    * Writing: 29
+    * Total: 107
+* Persian (Native)
   
 Programming and Computer Skills
 ======
@@ -38,17 +49,16 @@ Programming and Computer Skills
 
 Selected Graduate Courses
 ======
-* Econometrics II (Spring 2019)
-  * Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>
-* Research Method (Fall 2019)
-  * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
+* <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" target="_blank" rel="noopener noreferrer">Search Models: Introduction to Theory and Quantitative Methods (Fall 2019)</a>
+  * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
 * Contract Theory (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
 * Financial Economics II (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>
-* <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" target="_blank" rel="noopener noreferrer">Search Models: Introduction to Theory and Quantitative Methods (Fall 2019)</a>
-  * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
-
+* Research Method (Fall 2019)
+  * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
+* Econometrics II (Spring 2019)
+  * Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>
 
 Short Courses
 ======
@@ -60,17 +70,6 @@ Short Courses
   * by <a href="https://www.kavehmajlesi.com" target="_blank" rel="noopener noreferrer">Kaveh Majlesi</a> – Associate Professor at Lund University and Visisting Scholar at Harvard Business School
 * Information Design.
   * by <a href="https://www.personal.psu.edu/nuh47/" target="_blank" rel="noopener noreferrer">Nima Haghpanah</a> – Assistant Professor at Penn State University
-
-Language Skills
-======
-* English (Fluent)
-  * TOEFL iBT: (Taken Sep. 2017)
-    * Reading: 28
-    * Listening: 26
-    * Speaking: 24
-    * Writing: 29
-    * Total: 107
-* Persian (Native)
 
 Working Papers
 ======
