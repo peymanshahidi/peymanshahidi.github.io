@@ -1,7 +1,7 @@
 ---
 title: "Campbell (1994)'s RBC Model"
 collection: codes
-permalink: /codes/campbellrbc
+permalink: /codes/dynare/macro_i_midterm_ii
 date: 2020-05-10
 venue: 'Dynare Codes'
 ---
