@@ -1,5 +1,5 @@
 ---
-title: "Codes"
+title: "Codes <font size="3" (Click on each description for more information)</font>"
 permalink: /codes/
 author_profile: true
 ---
