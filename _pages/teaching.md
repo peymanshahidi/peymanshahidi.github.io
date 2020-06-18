@@ -19,7 +19,5 @@ author_profile: true
 	- Role: Dynare (Instructor + HW), Holding Weekly Paper Reading Sessions
 	- [[Dynare]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
-<br/>
-
 - Spring 2020: Macroeconomics II / Game Theory (Instructors: [M.H. Dehghani](https://sites.google.com/site/mhdehghani/), [F. Haghpanah](https://teias.institute/faculty/panah/)) 
 	- Role: HW
