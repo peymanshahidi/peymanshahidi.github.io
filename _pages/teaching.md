@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 ---
 <font size="6" color="green">Lecturer</font>
 
-- An Introduction to Overlapping Generations (OLG) Models (November 18, 2019)
+- Fall 2019: An Introduction to Overlapping Generations (OLG) Models
 	- Introduction of OLG models to Financial Economics II course students.
 
 ---
@@ -19,5 +19,5 @@ author_profile: true
 	- Role: Holding Weekly Paper Reading Session, Dynare HW
 	- [[Dynare Questions]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
-- Spring 2020: Macroeconomics II / Game Theory (Instructors: M.H. Dehghani, F. Haghpanah) 
+- Spring 2020: Macroeconomics II / Game Theory (Instructors: [M.H. Dehghani](https://sites.google.com/site/mhdehghani/), [F. Haghpanah](https://teias.institute/faculty/panah/)) 
 	- Role: HW
