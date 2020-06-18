@@ -7,14 +7,12 @@ author_profile: true
 
 ---
 <font size="6" color="green">Lecturer</font>
-<br/> 
 
 - An Introduction to Overlapping Generations (OLG) Models (November 18, 2019)
       - Introduction of OLG models to Financial Economics II course students.
 
 ---
 <font size="6" color="green">Teaching Assistant</font>
-<br/> 
 
 - [Introduction to Macroeconomics I](https://teias.institute/faculty/joshaghani/introduction-to-modern-macroeconomics-i/)
   (Spring 2020)
@@ -22,7 +20,6 @@ author_profile: true
       - Role: Dynare HW, Holding Weekly Paper Reading Session
       - [[Dynare Questions]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
-<b>[Macroeconomics II / Game Theory]()
-  (Spring 2020)</b><br>
-<b>Instructors: M.H. Dehghani, F. Haghpanah</b><br>
-<b>Role: HW<br>
+- Macroeconomics II / Game Theory (Spring 2020)
+      - Instructors: M.H. Dehghani, F. Haghpanah
+      - Role: HW
