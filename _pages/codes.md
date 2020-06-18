@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 <font size="5" color="green">Stata</font>
-<font size="2" color="black">(Click on descriptions for more information)</font>
+<font size="2" color="black">(Click on item for more information)</font>
 
 
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg)
@@ -23,14 +23,14 @@ author_profile: true
 
 ---
 <font size="5" color="green">Python</font>
-<font size="2" color="black">(Click on description for more information)</font>
+<font size="2" color="black">(Click on item for more information)</font>
 
 - [Search Model with Learning](https://peymanshahidi.github.io/codes/searchwithlearning)
   - [[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
 ---
 <font size="5" color="green">Dynare</font>
-<font size="2" color="black">(Click on descriptions for more information)</font>
+<font size="2" color="black">(Click on item for more information)</font>
 
 - [Macroeconomics I - HW11 (Frisch elasticity)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw11) (Spring 2020)
   - [[HW11 Solution]](https://www.dropbox.com/s/i7k0zktywr1kmqf/pset11-solutions.pdf?dl=0)
@@ -38,8 +38,8 @@ author_profile: true
 - [Macroeconomics I - Midterm II Exam (Based on Campbell (1994)'s Paper)](https://peymanshahidi.github.io/codes/dynare/macro_i_midterm2) (Spring 2020)
   - [[Midterm II Solution]](https://www.dropbox.com/s/ynfc43gmueg188z/Macro%20I%20-%20Midterm%20II%20-%20Dynare%20Solution.pdf?dl=0)
 
-- [Macroeconomics I - HW9  (RBC Model)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9) (Spring 2020)
+- Spring 2020: Macroeconomics I - [HW9 (RBC model)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9)
   - [[HW9 Solution]](https://www.dropbox.com/s/zajyamvau4wrps2/pset9-solutions.pdf?dl=0)
 
-- [Macroeconomics I - HW8](https://peymanshahidi.github.io/codes/dynare/macro_i_hw8) (Spring 2020)
+- Spring 2020: Macroeconomics I - [HW8](https://peymanshahidi.github.io/codes/dynare/macro_i_hw8) 
   - [[HW8 Solution]](https://www.dropbox.com/s/4qulf1ihx90qv4a/pset8-solution.pdf?dl=0)
