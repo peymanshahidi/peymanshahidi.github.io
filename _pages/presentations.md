@@ -13,8 +13,8 @@ author_profile: true
   [[Paper]](https://www.jstor.org/stable/2138860)
   [[Presentation Slides]]()
 
-<b>[Do Director Elections Matter?](https://teias.institute/seminar-2/)</b><br>
-<b>Vyacheslav Fos‚ Kai Li, Margarita Tsoutsoura<br>
-<i> The Review of Financial Studies, Volume 31, Issue 4, April 2018, Pages 1499–1531. </i><br>
-[[Paper]](https://doi.org/10.1093/rfs/hhx078)
-[[Presentation Slides]]()
+
+- [Do Director Elections Matter?](https://teias.institute/seminar-2/) <br>
+  Vyacheslav Fos‚ Kai Li, Margarita Tsoutsoura, <i> The Review of Financial Studies, Volume 31, Issue 4, April 2018, Pages 1499–1531. </i><br>
+  [[Paper]](https://doi.org/10.1093/rfs/hhx078)
+  [[Presentation Slides]]()
