@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 <font size="6" color="green">Stata</font>
-<font size="2" color="black">[Click on description for more information]</font>
+<font size="4" color="black">(Click on description for more information)</font>
 
 
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg)
@@ -25,12 +25,12 @@ author_profile: true
 
 ---
 <font size="6" color="green">Python</font>
-<font size="2" color="black">[Click on description for more information]</font>
+<font size="4" color="black">(Click on description for more information)</font>
 
 - [Search Model with Learning](https://peymanshahidi.github.io/codes/searchwithlearning)
   - [[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
 ---
 <font size="6" color="green">Dynare</font>
-<font size="2" color="black">[Click on description for more information]</font>
+<font size="4" color="black">(Click on description for more information)</font>
 
