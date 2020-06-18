@@ -84,7 +84,7 @@ Teaching Experience
   * Fall 2019: Financial Economics II (Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>) - Introduction to OLG models
 * Teaching Assistant
   * Spring 2020: Introduction to Modern Macroeconomics I (Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a>)
-  * Spring 2020: Macroeconomics II / Game Theory (<a href="https://sites.google.com/site/mhdehghani/" target="_blank" rel="noopener noreferrer">M.H. Dehghani</a> and <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>)
+  * Spring 2020: Macroeconomics II / Game Theory (Prof. <a href="https://sites.google.com/site/mhdehghani/" target="_blank" rel="noopener noreferrer">M.H. Dehghani</a> and Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>)
   
 Other Works and Experiences
 ======
