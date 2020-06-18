@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ---
-<font size="6" color="green">Stata</font>
-<font size="3" color="black">(Click on descriptions for more information)</font>
+<font size="4" color="green">Stata</font>
+<font size="2" color="black">(Click on descriptions for more information)</font>
 
 
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg)
@@ -22,15 +22,15 @@ author_profile: true
     [Do file (for test)]
 
 ---
-<font size="6" color="green">Python</font>
-<font size="3" color="black">(Click on description for more information)</font>
+<font size="4" color="green">Python</font>
+<font size="2" color="black">(Click on description for more information)</font>
 
 - [Search Model with Learning](https://peymanshahidi.github.io/codes/searchwithlearning)
   - [[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
 ---
-<font size="6" color="green">Dynare</font>
-<font size="3" color="black">(Click on descriptions for more information)</font>
+<font size="4" color="green">Dynare</font>
+<font size="2" color="black">(Click on descriptions for more information)</font>
 
 - [Macroeconomics I - HW11 (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw11) (Frisch elasticity)
   - [[HW11 Solution]](https://www.dropbox.com/s/i7k0zktywr1kmqf/pset11-solutions.pdf?dl=0)
