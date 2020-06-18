@@ -16,8 +16,8 @@ author_profile: true
 
 - Spring 2020: [Introduction to Macroeconomics I](https://teias.institute/faculty/joshaghani/introduction-to-modern-macroeconomics-i/)
   (Instructor: H. Joshaghani)
-	- Role: Dynare HW, Holding Weekly Paper Reading Sessions
-	- [[Dynare Questions]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
+	- Role: Dynare (Instructor + HW), Holding Weekly Paper Reading Sessions
+	- [[Dynare]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
 <br/>
 
