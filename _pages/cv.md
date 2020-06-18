@@ -9,21 +9,21 @@ redirect_from:
 
 ---
 
-<font size="4" color="green">Education</font>
+<font size="5" color="green">Education</font>
 
 * 2020: M.Sc. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Iran.
 * 2018: B.Sc. in Electerical Engineering (Major), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 * 2018: B.Sc. in Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 
-<font size="4" color="green">Honors</font>
+<font size="5" color="green">Honors</font>
 
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
 * 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - <font color="green">Top 0.2%</font>).
 * 2013: Became a member of [Iran's National Elites Foundation](https://en.bmn.ir)
 * 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - <font color="green">Top 0.05%</font>).
 
-Language Skills
-======
+<font size="5" color="green">Language Skills</font>
+
 * English (Fluent)
   * TOEFL iBT: (Taken Sep. 2017)
     * Reading: 28
@@ -33,8 +33,8 @@ Language Skills
     * Total: 107
 * Persian (Native)
   
-Programming and Computer Skills
-======
+<font size="5" color="green">Programming and computer Skills</font>
+
 * Skilled Programmer in
   * Python
   * Stata
@@ -48,8 +48,8 @@ Programming and Computer Skills
   * Microsoft Office (Word, Excel, PowerPoint)
   * LaTex
 
-Selected Graduate Courses
-======
+<font size="5" color="green">Selected Graduate Courses</font>
+
 * <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" target="_blank" rel="noopener noreferrer">Search Models: Introduction to Theory and Quantitative Methods (Fall 2019)</a>
   * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
 * Contract Theory (Fall 2019)
@@ -61,8 +61,8 @@ Selected Graduate Courses
 * Econometrics II (Spring 2019)
   * Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>
 
-Short Courses
-======
+<font size="5" color="green">Short Courses</font>
+
 * Selected Topics in Public Finance.
   * by <a href="http://www.shourideh.com" target="_blank" rel="noopener noreferrer">Ali Shourideh</a> - Assistant Professor at Tepper School of Business
 * Selected Topics in Mechanism Design and Matching.
@@ -71,13 +71,14 @@ Short Courses
   * by <a href="https://www.kavehmajlesi.com" target="_blank" rel="noopener noreferrer">Kaveh Majlesi</a> – Associate Professor at Lund University and Visisting Scholar at Harvard Business School
 * Information Design.
   * by <a href="https://www.personal.psu.edu/nuh47/" target="_blank" rel="noopener noreferrer">Nima Haghpanah</a> – Assistant Professor at Penn State University
-  
-Other Works and Experiences
-======
+
+
+<font size="5" color="green">Other Works and Experiences</font>
+
 * Education Committee Member of <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 
-References
-======
+<font size="5" color="green">References</font>
+
 * <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">Behrang Kamali Shahdadi</a> (Ph.D. Economics from University of Pennsylvania)
   * Assistant Professor of Economics & Finance at TeIAS
 * <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> Ph.D. Economics from University of Chicago) - M.Sc. Thesis Advisor
