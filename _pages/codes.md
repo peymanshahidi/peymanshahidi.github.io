@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 <font size="6" color="green">Stata</font>
-<font size="4" color="black">(Click on description for more information)</font>
+<font size="4" color="black">(Click on descriptions for more information)</font>
 
 
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg)
@@ -32,5 +32,5 @@ author_profile: true
 
 ---
 <font size="6" color="green">Dynare</font>
-<font size="4" color="black">(Click on description for more information)</font>
+<font size="4" color="black">(Click on descriptions for more information)</font>
 
