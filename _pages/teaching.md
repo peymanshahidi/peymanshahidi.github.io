@@ -8,9 +8,8 @@ author_profile: true
 <font size="6" color="green">Lecturer</font>
 <br/> 
 
-<b>[An Introduction to Overlapping Generations (OLG) Models]()
-  (November 18, 2019) </b><br>
-<b>Introduction of OLG models to Financial Economics II course students.<br>
+- An Introduction to Overlapping Generations (OLG) Models (November 18, 2019)
+      - Introduction of OLG models to Financial Economics II course students.
 
 ---
 <font size="6" color="green">Teaching Assistant</font>
