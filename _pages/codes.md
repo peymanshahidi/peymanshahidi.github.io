@@ -23,5 +23,8 @@ author_profile: true
 ---
 <font size="6" color="green">Python</font>
 
+- [Search Model with Learning]((https://peymanshahidi.github.io/codes/searchwithlearning) [Click for more information]
+  - [[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
+
 ---
 <font size="6" color="green">Dynare</font>
