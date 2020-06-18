@@ -8,14 +8,13 @@ author_profile: true
 <font size="6" color="green">Stata</font>
 
 
-- [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg) [Click for more info.]
+- [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg) [Click for more information]
   - [[ADO file]](https://www.dropbox.com/s/ct3wpxx4357qrk4/jal2greg.ado?dl=0)
     [Stata help file]
     [Sample Data (for test)]
     [Do file (for test)]
 
-- [Gregorian to Solar Jalali calendar converter](https://peymanshahidi.github.io/codes/greg2jal) [Click for more info.]
-	- This program creates 3 Solar Jalali date variables (year, month, day) from Gregorian inputs.
+- [Gregorian to Solar Jalali calendar converter](https://peymanshahidi.github.io/codes/greg2jal) [Click for more information]
   - [[ADO file]](https://www.dropbox.com/s/1bjixzxoi3lo5ns/greg2jal.ado?dl=0)
     [Stata help file]
     [Sample Data (for test)]
