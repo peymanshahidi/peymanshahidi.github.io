@@ -19,6 +19,7 @@ Honors
 ======
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
 * 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - <font color="green">Top 0.2%</font>).
+* 2013: Member – [Iran's National Elites Foundation](https://en.bmn.ir)
 * 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - <font color="green">Top 0.05%</font>).
 
 Language Skills
@@ -70,21 +71,6 @@ Short Courses
   * by <a href="https://www.kavehmajlesi.com" target="_blank" rel="noopener noreferrer">Kaveh Majlesi</a> – Associate Professor at Lund University and Visisting Scholar at Harvard Business School
 * Information Design.
   * by <a href="https://www.personal.psu.edu/nuh47/" target="_blank" rel="noopener noreferrer">Nima Haghpanah</a> – Assistant Professor at Penn State University
-
-Working Papers
-======
-  <ul>{% for post in site.workingpapers %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching Experience
-======
-* Lecturer
-  * Fall 2019: Financial Economics II (Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>) - Introduction to OLG models
-* Teaching Assistant
-  * Spring 2020: Introduction to Modern Macroeconomics I (Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a>)
-  * Spring 2020: Macroeconomics II / Game Theory (Prof. <a href="https://sites.google.com/site/mhdehghani/" target="_blank" rel="noopener noreferrer">M.H. Dehghani</a> and Prof. <a href="https://teias.institute/faculty/panah/" target="_blank" rel="noopener noreferrer">F. Haghpanah</a>)
   
 Other Works and Experiences
 ======
