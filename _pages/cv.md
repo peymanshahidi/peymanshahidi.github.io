@@ -9,14 +9,14 @@ redirect_from:
 
 ---
 
-Education
-======
+<font size="4" color="green">Education</font>
+
 * 2020: M.Sc. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Iran.
 * 2018: B.Sc. in Electerical Engineering (Major), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 * 2018: B.Sc. in Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 
-Honors
-======
+<font size="4" color="green">Honors</font>
+
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
 * 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - <font color="green">Top 0.2%</font>).
 * 2013: Became a member of [Iran's National Elites Foundation](https://en.bmn.ir)
