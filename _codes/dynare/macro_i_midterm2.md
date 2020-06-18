@@ -17,5 +17,4 @@ in the running directory.)
 [[Q2.mod]](https://www.dropbox.com/s/0o1ljfmhc43bubx/Q2Mid2.mod?dl=0)
 [[Q3.mod]](https://www.dropbox.com/s/nw9moc4yy2we2ys/Q3Mid2.mod?dl=0)
 
-### Last Update
-#### June 18, 2020
+### Last Update: June 18, 2020
