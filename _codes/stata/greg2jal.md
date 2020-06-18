@@ -1,7 +1,7 @@
 ---
 title: "Gregorian to Solar Jalali calendar converter"
 collection: codes
-permalink: /codes/greg2jal
+permalink: /codes/stata/greg2jal
 date: 2020-06-11
 venue: 'Stata Codes'
 ---
