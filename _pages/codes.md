@@ -38,7 +38,7 @@ author_profile: true
 - [Macroeconomics I - Midterm II Exam (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_midterm2) (Based on Campbell (1994)'s Paper)
   - [[Midterm II Solution]](https://www.dropbox.com/s/ynfc43gmueg188z/Macro%20I%20-%20Midterm%20II%20-%20Dynare%20Solution.pdf?dl=0)
 
-- [Macroeconomics I - HW9 (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9)
+- [Macroeconomics I - HW9 (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9) (RBC Model)
   - [[HW9 Solution]](https://www.dropbox.com/s/zajyamvau4wrps2/pset9-solutions.pdf?dl=0)
 
 - [Macroeconomics I - HW8 (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw8)
