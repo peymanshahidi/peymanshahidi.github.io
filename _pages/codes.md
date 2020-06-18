@@ -1,11 +1,11 @@
 ---
-title: "Codes <font size="3" (Click on each description for more information)</font>"
+title: "Codes"
 permalink: /codes/
 author_profile: true
 ---
 
 ---
-<font size="6" color="green">Stata</font>
+<font size="6" color="green">Stata</font> <font size="3" (Click on each description for more information)</font>
 
 
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg) [Click for more information]
