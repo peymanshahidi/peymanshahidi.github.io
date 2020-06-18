@@ -34,7 +34,7 @@ author_profile: true
 <font size="6" color="green">Dynare</font>
 <font size="4" color="black">(Click on descriptions for more information)</font>
 
-- [Macroeconomics I - HW11 (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw11)
+- [Macroeconomics I - HW11 (Spring 2020)](https://peymanshahidi.github.io/codes/dynare/macro_i_hw11) (Frisch elasticity)
   - [[HW11 Solution]](https://www.dropbox.com/s/i7k0zktywr1kmqf/pset11-solutions.pdf?dl=0)
     [[HW11_Q2Q6.mod]](https://www.dropbox.com/s/zkqm80bntmcrtx6/Q2Q6PS11.mod?dl=0)
     [[HW11_Q3Q7.mod]](https://www.dropbox.com/s/1hug1mxmaxct8a7/Q3Q7PS11.mod?dl=0)
