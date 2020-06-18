@@ -15,7 +15,7 @@ author_profile: true
 <font size="5" color="green">Teaching Assistant</font>
 
 - Spring 2020: [Introduction to Macroeconomics I](https://teias.institute/faculty/joshaghani/introduction-to-modern-macroeconomics-i/)
-  (Instructor: H. Joshaghani)
+  (Instructor: [H. Joshaghani](https://teias.institute/faculty/joshaghani/))
 	- Role: Dynare (Instructor + HW), Holding Weekly Paper Reading Sessions
 	- [[Dynare]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
