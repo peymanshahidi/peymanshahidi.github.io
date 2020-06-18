@@ -12,5 +12,4 @@ This code is part of my [Master's thesis paper](https://peymanshahidi.github.io/
 It incorporates online taxi driver's decision regarding ride acceptance while she updates her belief regarding
 offers' wage distribution after observing each ride proposal.
 
-### Last Update
-#### June 18, 2020
+### Last Update: June 18, 2020
