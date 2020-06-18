@@ -23,3 +23,10 @@ author_profile: true
 - Macroeconomics II / Game Theory (Spring 2020)
       - Instructors: M.H. Dehghani, F. Haghpanah
       - Role: HW
+
+<font size="6" color="green"> Conference Watchlist </font>
+
+- Mobile & Cyber-Physical Systems
+	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
+	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
+	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
