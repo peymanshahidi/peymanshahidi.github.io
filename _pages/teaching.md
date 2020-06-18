@@ -24,9 +24,19 @@ author_profile: true
       - Instructors: M.H. Dehghani, F. Haghpanah
       - Role: HW
 
-<font size="6" color="green"> Conference Watchlist </font>
+---
+<font size="6" color="green">Lecturer</font>
 
-- Mobile & Cyber-Physical Systems
-	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
-	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
-	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
+- An Introduction to Overlapping Generations (OLG) Models (November 18, 2019)
+	- Introduction of OLG models to Financial Economics II course students.
+
+---
+<font size="6" color="green">Teaching Assistant</font>
+
+- Spring 2020: [Introduction to Macroeconomics I](https://teias.institute/faculty/joshaghani/introduction-to-modern-macroeconomics-i/)
+  (Instructor: H. Joshaghani)
+	- Role: Holding Weekly Paper Reading Session, Dynare HW
+	- [[Dynare Questions]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
+
+- Spring 2020: Macroeconomics II / Game Theory (Instructors: M.H. Dehghani, F. Haghpanah) 
+	- Role: HW
