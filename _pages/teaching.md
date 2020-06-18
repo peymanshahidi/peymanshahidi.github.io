@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ---
-<font size="4" color="green">Lecturer</font>
+<font size="5" color="green">Lecturer</font>
 
 - Fall 2019: An Introduction to Overlapping Generations (OLG) Models
 	- Introduction of OLG models to Financial Economics II course students.
 
 ---
-<font size="4" color="green">Teaching Assistant</font>
+<font size="5" color="green">Teaching Assistant</font>
 
 - Spring 2020: [Introduction to Macroeconomics I](https://teias.institute/faculty/joshaghani/introduction-to-modern-macroeconomics-i/)
   (Instructor: H. Joshaghani)
