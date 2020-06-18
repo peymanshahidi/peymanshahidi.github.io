@@ -6,14 +6,12 @@ author_profile: true
 
 ---
 
-<font size="6" color="green">Financial Economics Reading Group</font>
-<br/> 
+<font size="6" color="green">Financial Economics Reading Group</font> 
 
-<b>[Evaluating the Effects of Incomplete Markets on Risk Sharing and Asset Pricing]() <font color="red">[Presented in English]</font> </b><br>
-<b>John Heaton, Deborah J. Lucas<br>
-<i> Journal of Political Economy, Volume 104, Issue 3, June 1996, Pages. 443-487. </i><br>
-[[Paper]](https://www.jstor.org/stable/2138860)
-[[Presentation Slides]]()
+- [Evaluating the Effects of Incomplete Markets on Risk Sharing and Asset Pricing]() <font color="red">[Presented in English]</font> <br>
+  John Heaton, Deborah J. Lucas, <i> Journal of Political Economy, Volume 104, Issue 3, June 1996, Pages. 443-487. </i><br>
+  [[Paper]](https://www.jstor.org/stable/2138860)
+  [[Presentation Slides]]()
 
 <b>[Do Director Elections Matter?](https://teias.institute/seminar-2/)</b><br>
 <b>Vyacheslav Fos‚ Kai Li, Margarita Tsoutsoura<br>
