@@ -18,8 +18,8 @@ Education
 Honors
 ======
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
-* 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - Top 0.2%).
-* 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - Top 0.05%).
+* 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - <font color="green">Top 0.2%</font>).
+* 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - <font color="green">Top 0.05%</font>).
 
 Language Skills
 ======
