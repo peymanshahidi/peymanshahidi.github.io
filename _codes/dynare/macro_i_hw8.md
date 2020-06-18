@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomics I - HW8 (Spring 2020)"
 collection: codes
-permalink: /codes/macro_i_hw8
+permalink: /codes/dynare/macro_i_hw8
 date: 2020-04-10
 venue: 'Dynare Codes'
 ---
