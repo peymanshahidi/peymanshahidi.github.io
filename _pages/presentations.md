@@ -8,7 +8,7 @@ author_profile: true
 
 <font size="6" color="green">Financial Economics Reading Group</font> 
 
-- Fall 2019: Evaluating the Effects of Incomplete Markets on Risk Sharing and Asset Pricing <font color="red">[in English]</font> <br>
+- Fall 2019: [Evaluating the Effects of Incomplete Markets on Risk Sharing and Asset Pricing]() <font color="red">[in English]</font> <br>
   John Heaton, Deborah J. Lucas, <i> Journal of Political Economy, Volume 104, Issue 3, June 1996, Pages. 443-487. </i><br>
   [[Paper]](https://www.jstor.org/stable/2138860)
   [Presentation Slides]
