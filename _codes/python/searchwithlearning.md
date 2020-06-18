@@ -1,7 +1,7 @@
 ---
 title: "Driver Ride Search with Learning"
 collection: codes
-permalink: /codes/searchwithlearning
+permalink: /codes/python/searchwithlearning
 date: 2020-04-01
 venue: 'Python Codes'
 ---
