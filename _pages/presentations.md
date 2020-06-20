@@ -24,7 +24,7 @@ author_profile: true
 
 <font size="5" color="green">Course Presentations</font> 
 
-- Spring 2020: Macroeconomics I - [The Causes and Costs of Misallocation] <br>
+- Spring 2020: Macroeconomics I - [The Causes and Costs of Misallocation]() <br>
   Restuccia, Diego, and Richard Rogerson, <i> Journal of Economic Perspectives, Volume 31, Issue 3, Summer 2017, Pages 151-74. </i><br>
   [[Presentation Slides]](https://peymanshahidi.github.io/Restuccia_Rogerson_JEP_Presentation.pdf)
   [[Link to Paper]](https://www.aeaweb.org/articles?id=10.1257/jep.31.3.151)
