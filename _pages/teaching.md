@@ -14,10 +14,12 @@ author_profile: true
 ---
 <font size="5" color="green">Teaching Assistant</font>
 
+- Spring 2020: Macroeconomics II / Game Theory (Instructors: [M.H. Dehghani](https://sites.google.com/site/mhdehghani/), [F. Haghpanah](https://teias.institute/faculty/panah/)) 
+	- Role: Holding HW solving sessions
+
+
 - Spring 2020: [Introduction to Macroeconomics I](https://teias.institute/faculty/joshaghani/introduction-to-modern-macroeconomics-i/)
   (Instructor: [H. Joshaghani](https://teias.institute/faculty/joshaghani/))
-	- Role: Dynare (Instructor + HW), Holding Weekly Paper Reading Sessions
-	- [[Dynare]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
+	- Role: Dynare (Instructor + HW), Holding weekly paper reading sessions
+	- Material: [[Dynare]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
-- Spring 2020: Macroeconomics II / Game Theory (Instructors: [M.H. Dehghani](https://sites.google.com/site/mhdehghani/), [F. Haghpanah](https://teias.institute/faculty/panah/)) 
-	- Role: HW
