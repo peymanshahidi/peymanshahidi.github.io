@@ -35,18 +35,9 @@ redirect_from:
   
 <font size="6" color="green">Programming and Computer Skills</font>
 
-* Skilled Programmer in
-  * Python
-  * Stata
-  * R
-  * Matlab
-  * Octave
-  * C#/C++
-* Packages
-  * Dynare
-* Computer Skills
-  * Microsoft Office (Word, Excel, PowerPoint)
-  * LaTex
+* Skilled Programmer in: Python, Stata, R, Matlab, Octave, C#/C++
+* Packages: Dynare
+* Computer Skills: Microsoft Office (Word, Excel, PowerPoint), LaTex
 
 <font size="6" color="green">Selected Graduate Courses</font>
 
