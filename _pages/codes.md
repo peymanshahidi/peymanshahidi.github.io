@@ -25,7 +25,7 @@ author_profile: true
 <font size="5" color="green">Python</font>
 <font size="2" color="black">(Click on item for more information)</font>
 
-- [Discrete-time Search Model with Learning](https://peymanshahidi.github.io/codes/searchwithlearning)
+- [A discrete-time Search model with Learning](https://peymanshahidi.github.io/codes/searchwithlearning)
   - [[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
 ---
