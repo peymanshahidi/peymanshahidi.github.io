@@ -29,7 +29,7 @@ author_profile: true
   [[Presentation Slides]](https://peymanshahidi.github.io/Restuccia_Rogerson_JEP_Presentation.pdf)
   [[Link to Paper]](https://www.aeaweb.org/articles?id=10.1257/jep.31.3.151)
   
-- Fall 2019: Contract Theory - [Efficient Matching Under Distributional Constraints: Theory And Applications]() <br>
+- Fall 2019: Contract Theory - [Efficient Matching Under Distributional Constraints: Theory And Applications]() <font color="red">[in English]</font> <br>
   Kamada, Yuichiro, and Fuhito Kojima, <i> American Economic Review, Volume 105, Issue 1, January 2015, Pages 67-99. </i><br>
   [[Presentation Slides]](https://peymanshahidi.github.io/Efficient_Matching_Under_Distributional_Constraints_Theory_and_Applications_Presentation.pdf)
   [[Link to Paper]](https://www.aeaweb.org/articles?id=10.1257/aer.20101552)
