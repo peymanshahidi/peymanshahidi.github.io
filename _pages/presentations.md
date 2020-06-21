@@ -41,5 +41,5 @@ author_profile: true
   
 - Fall 2019: Contract Theory - Efficient and Nearly Efficient Partnerships / A Comparison of Tournaments and Contracts
 [[Presentation Slides]](https://peymanshahidi.github.io/Contract_Theory_Moral_Hazard_Presentation.pdf)
-    - Patrick Legros and Steven A. Matthews, <i> The Review of Economic Studies, Volume 60, Issue 3, July 1993, Pages 599-611. </i> [[Link to Paper: Efficient Partnetships]](https://www.jstor.org/stable/2298126?seq=1)
-    - Jerry R. Green and Nancy L. Stokey, <i> Journal of Political Economy, Volume 91, Issue 3, June 1983, Pages 349-364. </i> [[Link to Paper: Tournaments and Contracts]](https://www.jstor.org/stable/1837093?seq=1)
+    - Patrick Legros and Steven A. Matthews, <i> The Review of Economic Studies, Volume 60, Issue 3, July 1993, Pages 599-611. </i> [[Link to Paper]](https://www.jstor.org/stable/2298126?seq=1)
+    - Jerry R. Green and Nancy L. Stokey, <i> Journal of Political Economy, Volume 91, Issue 3, June 1983, Pages 349-364. </i> [[Link to Paper]](https://www.jstor.org/stable/1837093?seq=1)
