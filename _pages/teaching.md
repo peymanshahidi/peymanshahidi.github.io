@@ -14,7 +14,7 @@ author_profile: true
 ---
 <font size="5" color="green">Teaching Assistant</font>
 
-- Spring 2020: Macroeconomics II / Game Theory (Instructors: [M.H. Dehghani](https://sites.google.com/site/mhdehghani/), [F. Haghpanah](https://teias.institute/faculty/panah/)) 
+- Spring 2020: Microeconomics II / Game Theory (Instructors: [M.H. Dehghani](https://sites.google.com/site/mhdehghani/), [F. Haghpanah](https://teias.institute/faculty/panah/)) 
 	- Role: Holding HW solving sessions
 
 
