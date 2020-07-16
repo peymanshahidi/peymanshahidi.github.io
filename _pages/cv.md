@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% seo %}
+
 ---
 
 <font size="6" color="green">Education</font>
