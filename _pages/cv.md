@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% seo %}
-
----
-
 <font size="6" color="green">Education</font>
 
 * 2020: M.Sc. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Iran.
