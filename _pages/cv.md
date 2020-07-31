@@ -69,6 +69,7 @@ redirect_from:
 <font size="6" color="green">Other Works and Experiences</font>
 
 * Education Committee Member of <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
+* Developped <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# (Self-defined Project - Summer 2014).
 
 <font size="6" color="green">References</font>
 
