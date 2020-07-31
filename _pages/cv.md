@@ -68,7 +68,7 @@ redirect_from:
 
 <font size="6" color="green">Other Works and Experiences</font>
 
-* Developed the Case-Shiller House Price Index code in Stata for Public Use available at <a href="https://housepriceindex.ir" target="_blank" rel="noopener noreferrer">Website of Iran's Residential House Price Index</a> (Summer 2020).
+* Developed a Publicly Available <a href="https://en.wikipedia.org/wiki/Case–Shiller_index" target="_blank" rel="noopener noreferrer">Case-Shiller House Price Index</a> code in Stata for <a href="https://housepriceindex.ir" target="_blank" rel="noopener noreferrer">The Website of Iran's Residential House Price Index</a> (Summer 2020).
 * Developed The <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (Summer 2014 - Self-defined Project).
 * Education Committee Member of <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 
