@@ -12,23 +12,13 @@ author_profile: true
 
 
 - [Iran's House Price Index](https://peymanshahidi.github.io/codes/stata/iranhpi)
-  - [[ado file]](https://www.dropbox.com/s/af6g2fmxl4qqmqx/iranhpi.ado?dl=0)
-    [[test sample data]](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
-    [[test do file]](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
-    [Stata help file]
+  - [[ado file + test sample]](https://www.dropbox.com/sh/1ew8a1sr6j88kl4/AAClAPgk-GfUive-Nv6Ww9Uia?dl=0)
     
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/stata/jal2greg)
-  - [[ado file]](https://www.dropbox.com/s/ct3wpxx4357qrk4/jal2greg.ado?dl=0)
-    [test sample data]
-    [test do file]
-    [Stata help file]
-
+  - [[ado file + test sample]](https://www.dropbox.com/sh/78130ozhrliwzii/AAB4ulKUZkkBTOBFPmQQqNP3a?dl=0)
 
 - [Gregorian to Solar Jalali calendar converter](https://peymanshahidi.github.io/codes/stata/greg2jal)
-  - [[ado file]](https://www.dropbox.com/s/1bjixzxoi3lo5ns/greg2jal.ado?dl=0)
-    [test sample data]
-    [test do file]
-    [Stata help file]
+  - [[ado file + test sample]](https://www.dropbox.com/sh/fawmm4rsvmlrdfb/AAA5C14TYFlHOBLSySG03Maba?dl=0)
 
 ---
 <font size="5" color="green">Python</font>
