@@ -11,10 +11,9 @@ author_profile: true
 <font size="2" color="black">(Click on item for more information)</font>
 
 
-- [Iran's House Price Index](https://peymanshahidi.github.io/codes/stata/iranhpi) - [[ado file + test material]](https://www.dropbox.com/sh/1ew8a1sr6j88kl4/AAClAPgk-GfUive-Nv6Ww9Uia?dl=0)
+- [Iran's House Price Index](https://peymanshahidi.github.io/codes/stata/iranhpi)  [(ado file + test materials)](https://www.dropbox.com/sh/1ew8a1sr6j88kl4/AAClAPgk-GfUive-Nv6Ww9Uia?dl=0)
     
-- [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/stata/jal2greg)
-  - [[ado file+test sample]](https://www.dropbox.com/sh/78130ozhrliwzii/AAB4ulKUZkkBTOBFPmQQqNP3a?dl=0)
+- [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/stata/jal2greg) [(ado file + test materials)](https://www.dropbox.com/sh/78130ozhrliwzii/AAB4ulKUZkkBTOBFPmQQqNP3a?dl=0)
 
 - [Gregorian to Solar Jalali calendar converter](https://peymanshahidi.github.io/codes/stata/greg2jal)
   - [[ado file+test sample]](https://www.dropbox.com/sh/fawmm4rsvmlrdfb/AAA5C14TYFlHOBLSySG03Maba?dl=0)
