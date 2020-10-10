@@ -7,7 +7,7 @@ author_profile: true
 {% seo %}
 
 ---
-<font size="5" color="green">Stata</font>
+<font size="5" color="green">Stata Commands</font>
 <font size="2" color="black">(Click on item for more information)</font>
 
 
