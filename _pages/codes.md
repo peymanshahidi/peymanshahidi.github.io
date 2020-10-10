@@ -13,8 +13,8 @@ author_profile: true
 
 - [Iran's House Price Index](https://peymanshahidi.github.io/codes/iranhpi)
   - [[ADO file]](https://www.dropbox.com/s/af6g2fmxl4qqmqx/iranhpi.ado?dl=0)
-    [Sample Data (for test)](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
-    [Do file (for test)](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
+    [[Sample Data (for test)]](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
+    [[Do file (for test)]](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
     [Stata help file]
     
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/jal2greg)
@@ -32,9 +32,8 @@ author_profile: true
 
 ---
 <font size="5" color="green">Python</font>
-<font size="2" color="black">(Click on item for more information)</font>
 
-- [A discrete-time Search model with Learning](https://peymanshahidi.github.io/codes/searchwithlearning)
+- A discrete-time Search model with Learning
   - [[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
 ---
