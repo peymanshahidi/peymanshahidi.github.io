@@ -10,6 +10,6 @@ This code attributes to a part of my [working paper](https://peymanshahidi.githu
 It incorporates online taxi driver's decision regarding ride acceptance while she updates her belief regarding
 offers' wage distribution after observing each ride proposal.
 
-[[Jupyter Notebook file]](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
+[(Jupyter Notebook file)](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
 ### Last Update: June 18, 2020
