@@ -17,7 +17,7 @@ redirect_from:
 
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
 * 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - <font color="green">Top 0.2%</font>).
-* 2013: Became a member of [Iran's National Elites Foundation](https://en.bmn.ir)
+* 2013: Became a member of [Iran's National Elites Foundation](https://www.bmn.ir)
 * 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - <font color="green">Top 0.05%</font>).
 
 <font size="6" color="green">Language Skills</font>
