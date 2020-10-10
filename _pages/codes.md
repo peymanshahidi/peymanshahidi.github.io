@@ -12,22 +12,22 @@ author_profile: true
 
 
 - [Iran's House Price Index](https://peymanshahidi.github.io/codes/stata/iranhpi)
-  - [[ADO file]](https://www.dropbox.com/s/af6g2fmxl4qqmqx/iranhpi.ado?dl=0)
-    [[Sample Data (for test)]](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
-    [[Do file (for test)]](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
+  - [[ado file]](https://www.dropbox.com/s/af6g2fmxl4qqmqx/iranhpi.ado?dl=0)
+    [[test sample data]](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
+    [[test do file]](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
     [Stata help file]
     
 - [Solar Jalali to Gregorian calendar converter](https://peymanshahidi.github.io/codes/stata/jal2greg)
-  - [[ADO file]](https://www.dropbox.com/s/ct3wpxx4357qrk4/jal2greg.ado?dl=0)
-    [Sample Data (for test)]
-    [Do file (for test)]
+  - [[ado file]](https://www.dropbox.com/s/ct3wpxx4357qrk4/jal2greg.ado?dl=0)
+    [test sample data]
+    [test do file]
     [Stata help file]
 
 
 - [Gregorian to Solar Jalali calendar converter](https://peymanshahidi.github.io/codes/stata/greg2jal)
-  - [[ADO file]](https://www.dropbox.com/s/1bjixzxoi3lo5ns/greg2jal.ado?dl=0)
-    [Sample Data (for test)]
-    [Do file (for test)]
+  - [[ado file]](https://www.dropbox.com/s/1bjixzxoi3lo5ns/greg2jal.ado?dl=0)
+    [test sample data]
+    [test do file]
     [Stata help file]
 
 ---
