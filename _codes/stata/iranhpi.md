@@ -25,9 +25,9 @@ a certain period. (default = 1 period)
 compared to monthly average of all transcations occurred in 
 the data. (default = 10000 :no limit)
 
-[[ADO file]](https://www.dropbox.com/s/af6g2fmxl4qqmqx/iranhpi.ado?dl=0)
-[Sample Data (for test)](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
-[Do file (for test)](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
+[[ado file]](https://www.dropbox.com/s/af6g2fmxl4qqmqx/iranhpi.ado?dl=0)
+[[test sample data]](https://www.dropbox.com/s/ozcxjrkwf4av8dl/iranhpi_test.dta?dl=0)
+[[test do file]](https://www.dropbox.com/s/95kp3qjwrlstrwm/test_iranhpi.do?dl=0)
 [Stata help file]
 
 ### Last Update: October 10, 2020
