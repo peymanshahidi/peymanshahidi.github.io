@@ -39,7 +39,7 @@ redirect_from:
 
 <font size="6" color="green">Selected Graduate Courses</font>
 
-* Theory of Income (Winter 2022)
+* Theory of Income II (Winter 2022) - UChicago Economics Ph.D. Core Class for Macroeconomics
   * Prof. <a href="https://voices.uchicago.edu/golosov/" target="_blank" rel="noopener noreferrer">M. Golosov</a>
 * <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" target="_blank" rel="noopener noreferrer">Search Models: Introduction to Theory and Quantitative Methods (Fall 2019)</a>
   * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
