@@ -49,7 +49,7 @@ redirect_from:
 <font size="6" color="green">Other Works and Experiences</font>
 
 * Summer 2020: Developed a Publicly Available package for conversion of Gregorian-to-Jalali calendar conversion and vice versa in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
-* Summer 2020: Developed a Publicly Available <a href="https://en.wikipedia.org/wiki/Case–Shiller_index" target="_blank" rel="noopener noreferrer">Case-Shiller House Price Index</a> code in Stata for an independent project.
+* Summer 2020: Developed a Publicly Available <a href="https://en.wikipedia.org/wiki/Case–Shiller_index" target="_blank" rel="noopener noreferrer">Case-Shiller House Price Index</a> code in Stata for an independent project. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
 * Winter 2016: Education Committee Member of <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 * Summer 2013: Developed The <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
 
