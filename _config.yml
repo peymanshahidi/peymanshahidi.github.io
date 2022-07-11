@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peyman Shahidi"
 title_separator          : " "
 name                     : &name "Peyman Shahidi"
-description              : &description "M.Sc. Student of Economics"
+description              : &description "Pre-doctoral Research Assistant"
 url                      : https://peymanshahidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peymanshahidi/peymanshahidi.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Peyman Shahidi"
   avatar           : "avatar.jpg"
-  bio              : "M.Sc. student of Economics at Tehran Institute for Advanced Studies (TeIAS)."
-  location         : "Tehran, Iran."
+  bio              : "Pre-doctoral Research Assistant at UChicago Booth"
+  location         : "Chicago, IL."
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PeymanSh96"
+  twitter          : "peyman_shahidi"
   vine             :
   weibo            :
   xing             :
