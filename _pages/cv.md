@@ -60,4 +60,4 @@ redirect_from:
 * <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> 
   * Assistant Professor of Finance at University of Chicago Booth School of Business
 * <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> (M.A. Thesis Advisor)
-  * Assistant Professor of Economics & Finance at Tehran Institute for Advanced Studies (TeIAS)
+  * Assistant Professor of Economics and Finance at Tehran Institute for Advanced Studies (TeIAS)
