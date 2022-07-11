@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Peyman Shahidi, currently a second year M.Sc. student of *Economics* at <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Tehran, Iran.
-I have obtained my B.Sc. Major in *Electrical Engineering* and Minor in *Economics* from <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology (SUT)</a>, Tehran, Iran.
+I am Peyman Shahidi, currently a Pre-doctoral Research Assistant to  <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a> and <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> at University of Chicago Booth School of Business.
+Prior to coming to Booth, I obtained a M.A. in *Economics* and a B.Sc. in *Electrical Engineering* from Iran.
 
-I plan to continue my higher education as a Ph.D. student in *Economics* or *Finance*. My primary fields of interest are **applied microeconomics** and **household finance**. I am also interested in topics from **corporate finance** and **public finance**.
+I plan to continue my higher education as a Ph.D. student in *Economics* or *Finance*. My primary fields of interest are **applied microeconomics** and **household finance**. I am also interested in topics from **corporate finance**.
+
+
+
+
