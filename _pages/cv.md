@@ -56,7 +56,7 @@ redirect_from:
 <font size="6" color="green">References</font>
 
 * <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a> 
-  * Distinguished Professor of Economics and Entrepreneurship at University of Chicago Booth School of Business
+  * Professor of Economics and Entrepreneurship at University of Chicago Booth School of Business
 * <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> 
   * Assistant Professor of Finance at University of Chicago Booth School of Business
 * <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> (M.A. Thesis Advisor)
