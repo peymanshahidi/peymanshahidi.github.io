@@ -16,7 +16,7 @@ author_profile: true
 
 ---
 
-<font size="5" color="green">TeIAS Financial Economics Reading Group</font> 
+<font size="5" color="green">TeIAS Student Seminar</font> 
 
 - Fall 2019: Evaluating the Effects of Incomplete Markets on Risk Sharing and Asset Pricing <br>
   John Heaton, Deborah J. Lucas, <i> Journal of Political Economy, Volume 104, Issue 3, June 1996, Pages 443-487. </i><br>
