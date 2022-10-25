@@ -16,9 +16,9 @@ redirect_from:
 <font size="6" color="green">Honors</font>
 
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
-* 2018: Ranked $5^{th}$ in Iran’s M.Sc. University Entrance Exam (among more than 3,000 participants - <font color="green">Top 0.2%</font>).
+* 2018: Ranked among the top 0.05% in Iran’s M.Sc. University Entrance Exam.
 * 2013: Became a member of [Iran's National Elite Foundation](https://www.bmn.ir)
-* 2013: Ranked $113^{th}$ in Iran’s B.Sc. University Entrance Exam (among more than 250,000 participants - <font color="green">Top 0.05%</font>).
+* 2013: Ranked among the top 0.05% in Iran’s B.Sc. University Entrance Exam.
 
 <font size="6" color="green">Language Skills</font>
 
@@ -39,7 +39,7 @@ redirect_from:
 
 <font size="6" color="green">Selected Graduate Courses</font>
 
-* Theory of Income II (Winter 2022) - UChicago Economics Ph.D. Core Class for Macroeconomics
+* Theory of Income II (Winter 2022) - UChicago Economics Ph.D. Core
   * Prof. <a href="https://voices.uchicago.edu/golosov/" target="_blank" rel="noopener noreferrer">M. Golosov</a>
 * <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" target="_blank" rel="noopener noreferrer">Search Models: Introduction to Theory and Quantitative Methods (Fall 2019)</a>
   * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
@@ -48,8 +48,8 @@ redirect_from:
 
 <font size="6" color="green">Other Works and Experiences</font>
 
-* Summer 2020: Developed a Publicly Available package for conversion of Gregorian-to-Jalali calendar conversion and vice versa in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
-* Summer 2020: Developed a Publicly Available <a href="https://en.wikipedia.org/wiki/Case–Shiller_index" target="_blank" rel="noopener noreferrer">Case-Shiller House Price Index</a> code in Stata for an independent project. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
+* Summer 2020: Developed a Publicly Available package for conversion of Gregorian-to-Solar Hijri calendar conversion and vice versa in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
+* Summer 2020: Developed a Publicly Available <a href="https://en.wikipedia.org/wiki/Case–Shiller_index" target="_blank" rel="noopener noreferrer">Case-Shiller House Price Index</a> package in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
 * Winter 2016: Education Committee Member of <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 * Summer 2013: Developed The <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
 
@@ -59,5 +59,7 @@ redirect_from:
   * Professor of Economics and Entrepreneurship at University of Chicago Booth School of Business
 * <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> 
   * Assistant Professor of Finance at University of Chicago Booth School of Business
-* <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a> (M.A. Thesis Advisor)
+* <a href="https://teias.institute/~kamali/" target="_blank" rel="noopener noreferrer">Behrang Kamali-Shahdadi</a>
+  * Assistant Professor of Economics and Finance at Tehran Institute for Advanced Studies (TeIAS)
+* <a href="https://teias.institute/~joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a>
   * Assistant Professor of Economics and Finance at Tehran Institute for Advanced Studies (TeIAS)
