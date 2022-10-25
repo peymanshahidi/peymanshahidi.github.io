@@ -48,7 +48,7 @@ redirect_from:
 
 <font size="6" color="green">Other Works and Experiences</font>
 
-* Summer 2020: Developed a publicly available package for conversion of Gregorian-to-Solar Hijri calendar conversion and vice versa in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
+* Summer 2020: Developed publicly available packages for converting Gregorian calendar to Solar Hijri and vice versa in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
 * Summer 2020: Developed a publicly available Case-Shiller House Price Index package in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
 * Winter 2016: Education Committee Member at <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 * Summer 2013: Developed the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
@@ -60,6 +60,6 @@ redirect_from:
 * <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> 
   * Assistant Professor of Finance at University of Chicago, Booth School of Business
 * <a href="https://teias.institute/~kamali/" target="_blank" rel="noopener noreferrer">Behrang Kamali-Shahdadi</a>
-  * Assistant Professor of Economics and Finance at Tehran Institute for Advanced Studies (TeIAS), Khatam University
+  * Assistant Professor of Economics and Finance at Khatam University, TeIAS
 * <a href="https://teias.institute/~joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a>
-  * Assistant Professor of Economics and Finance at Tehran Institute for Advanced Studies (TeIAS), Khatam University
+  * Assistant Professor of Economics and Finance at Khatam University, TeIAS

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Pre-doctoral Research Assistant for <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a> and <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> at The University of Chicago, Booth School of Business.
+I am currently working as a Pre-doctoral Research Assistant at The University of Chicago, Booth School of Business. At, Booth, I have been working on topics from Financial Market Design, Industrial Organiation, Covid-19 Vaccine Policy, Concert Ticket Auctions, and Economics of Cryptocurrencies for <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a> and <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a>.
 Prior to joining Booth, I obtained a M.A. in *Economics* and a B.Sc. in *Electrical Engineering* from Iran.
 
 I plan to continue my education as a Ph.D. student in Economics or Finance. My primary fields of interest are **applied microeconomics**, **market design**, and **industrial organization**. I am also interested in topics from **household finance** and **labor economics**.
