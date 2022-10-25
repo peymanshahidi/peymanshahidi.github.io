@@ -1,10 +1,14 @@
 ---
-title: "Working Papers"
+title: "Research"
 permalink: /workingpapers/
 author_profile: true
 ---
 
 ---
 
-- Change in Online Taxi Drivers' Labor Supply: Learning or Price Effect? Evidence from Tapsi. [[Paper]](https://www.dropbox.com/s/j35pgr4ppfpy784/Peyman%20Shahidi%20-%20Proposal%202nd%20Draft.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/2btm18pmsp6ieqx/Proposal%20Presentation.pdf?dl=0)
-  - <font size="3" color="black">Abstract:</font> <font size="2" color="black">In this paper, a search model that accounts for online taxi drivers' belief about goodness of ride prices in their ride acceptance behavior has been developed. The properties of a dataset form Tapsi, an Iranian ride-hailing company, is discussed. Using this dataset, the probability of ride acceptance for an average driver during different times of a working shift will be estimated. Furthermore, the dataset allows us to decompose the effect of an exogenous price shock on drivers' ride acceptance patterns into two components: price effect and experience effect. In future steps of this research, the extent that each component determines short-term labor supply decision of drivers will be quantitatively measured using a regression discontinuity design.</font>
+<font size="5" color="green">Working Papers</font> 
+
+---
+
+- Change in Online Taxi Drivers' Labor Supply: Learning or Price Effect? Evidence from Tapsi. [[Paper]](https://www.dropbox.com/s/cd4l2kry97ya6f9/tapsi_draft_application2022.pdf?dl=0) [[Slides]](https://www.dropbox.com/s/b6e1i72cvhx8oi1/peyman_tapsi_slides_sep2022.pdf?dl=0)
+  - <font size="3" color="black">Abstract:</font> <font size="2" color="black">I quantitatively study the effect of online taxi drivers’ subjective belief about goodness of ride prices on their ride acceptance behavior. I develop a continuous-time search model based on two unique ride dispatching characteristics of Tapsi, an Iranian ride-hailing company, whose dataset is being used in a regression discontinuity setup to decompose the effect of exogenous price shocks on drivers’ ride acceptance into two components: (1) pure price effect, and (2) experience effect. A discrete-time simulation of the model shows how ride completion histories affects drivers’ expectations of future earnings. Results indicate how this decomposition allows us to explain heterogeneous responses to similar ride offers not only from different drivers but also from the same driver at different times.</font>
