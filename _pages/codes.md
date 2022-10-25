@@ -29,13 +29,11 @@ author_profile: true
 <font size="5" color="green">Dynare</font>
 <font size="2" color="black">(Click on item for more information)</font>
 
-- Spring 2020: Macroeconomics I - [[HW11 (Frisch elasticity)]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw11) [[HW11 Solution]](https://www.dropbox.com/s/i7k0zktywr1kmqf/pset11-solutions.pdf?dl=0)
-    
-- Spring 2020: Macroeconomics I - [[Midterm II Exam]](https://peymanshahidi.github.io/codes/dynare/macro_i_midterm2) [[Midterm II Solution]](https://www.dropbox.com/s/ynfc43gmueg188z/Macro%20I%20-%20Midterm%20II%20-%20Dynare%20Solution.pdf?dl=0)
-
-- Spring 2020: Macroeconomics I - [[HW9 (RBC model of Campbell (1994))]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9) [[HW9 Solution]](https://www.dropbox.com/s/zajyamvau4wrps2/pset9-solutions.pdf?dl=0)
-
-- Spring 2020: Macroeconomics I - [[HW8]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw8) [[HW8 Solution]](https://www.dropbox.com/s/4qulf1ihx90qv4a/pset8-solution.pdf?dl=0)
+- Spring 2020: Macroeconomics I 
+    - [[HW11 (Frisch elasticity)]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw11) [[HW11 Solution]](https://www.dropbox.com/s/i7k0zktywr1kmqf/pset11-solutions.pdf?dl=0)
+    - [[Midterm II Exam]](https://peymanshahidi.github.io/codes/dynare/macro_i_midterm2) [[Midterm II Solution]](https://www.dropbox.com/s/ynfc43gmueg188z/Macro%20I%20-%20Midterm%20II%20-%20Dynare%20Solution.pdf?dl=0)
+    - [[HW9 (RBC model of Campbell (1994))]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9) [[HW9 Solution]](https://www.dropbox.com/s/zajyamvau4wrps2/pset9-solutions.pdf?dl=0)
+    - [[HW8]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw8) [[HW8 Solution]](https://www.dropbox.com/s/4qulf1ihx90qv4a/pset8-solution.pdf?dl=0)
 
 
 
