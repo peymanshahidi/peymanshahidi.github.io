@@ -1,5 +1,5 @@
 ---
-title: "Working Papers"
+title: "Research"
 permalink: /pub/
 author_profile: true
 ---
