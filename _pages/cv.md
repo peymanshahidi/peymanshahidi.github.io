@@ -41,7 +41,7 @@ redirect_from:
 
 * Theory of Income II (Winter 2022) - UChicago Economics Ph.D. Core
   * Prof. <a href="https://voices.uchicago.edu/golosov/" target="_blank" rel="noopener noreferrer">M. Golosov</a>
-* <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" style="text-decoration:none;">Search Models: Introduction to Theory and Quantitative Methods</a> (Fall 2019)
+* <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" style="color:36454F; text-decoration:none;">Search Models: Introduction to Theory and Quantitative Methods</a> (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
 * Contract Theory (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
