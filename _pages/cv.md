@@ -9,7 +9,7 @@ redirect_from:
 
 <font size="6" color="green">Education</font>
 
-* 2020: M.A. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Iran.
+* 2021: M.A. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Iran.
 * 2018: B.Sc. in Electerical Engineering (Major), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 * 2018: B.Sc. in Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 
@@ -41,7 +41,7 @@ redirect_from:
 
 * Theory of Income II (Winter 2022) - UChicago Economics Ph.D. Core
   * Prof. <a href="https://voices.uchicago.edu/golosov/" target="_blank" rel="noopener noreferrer">M. Golosov</a>
-* <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" style="color:36454F; text-decoration:none;">Search Models: Introduction to Theory and Quantitative Methods</a> (Fall 2019)
+* <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" style="color:#36454F; text-decoration:none;">Search Models: Introduction to Theory and Quantitative Methods</a> (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
 * Contract Theory (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
