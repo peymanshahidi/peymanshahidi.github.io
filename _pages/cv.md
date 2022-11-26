@@ -13,6 +13,15 @@ redirect_from:
 * 2018: B.Sc. in Electerical Engineering (Major), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 * 2018: B.Sc. in Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 
+<font size="6" color="green">Work Experiences</font>
+
+* 2021-: Pre-doctoral Research Assistant
+  * Supervisors: <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a>, <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a>
+    * Working on projects in the fields of Industrial Organization, Market Design, Market Microstructure, and Economics of Cryptocurrencies.
+* 2020: Part-time Research Assistant
+  * Supervisor: <a href="https://teias.institute/~joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a>
+    * Worked on a project about house price indices in Iran. Developed <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Stata Commands</a>. for Iran's Case-Shiller house price index and Solar Hijri-Gregorian calendar conversion.
+
 <font size="6" color="green">Honors</font>
 
 * 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
@@ -38,11 +47,13 @@ redirect_from:
 * <a href="https://teias.institute/search-models-introduction-to-theory-and-quantitative-methods/" style="color:#36454F; text-decoration:none;">Search Models: Introduction to Theory and Quantitative Methods</a> (Fall 2019)
   * Prof. <a href="https://teias.institute/faculty/joshaghani/" target="_blank" rel="noopener noreferrer">H. Joshaghani</a> and Prof. <a href="https://sites.google.com/site/davoodalhosseini/" target="_blank" rel="noopener noreferrer">M.R. Davoodalhosseini</a> 
 * Contract Theory (Fall 2019)
-  * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali Shahdadi</a>
+  * Prof. <a href="https://teias.institute/faculty/kamali/" target="_blank" rel="noopener noreferrer">B. Kamali-Shahdadi</a>
+* Financial Economics II (Fall 2019)
+  * Prof. <a href="http://hagh-panah.ir/?i=1" target="_blank" rel="noopener noreferrer">F. Hagh-Panah</a>
 
-<font size="6" color="green">Other Works and Experiences</font>
+<font size="6" color="green">Other Experiences</font>
 
-* Summer 2020: Developed publicly available packages for converting Gregorian calendar to Solar Hijri and vice versa in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
+* Summer 2020: Developed publicly available packages for converting Gregorian calendar to Solar Hijri and vice versa in Stata. 
 * Summer 2020: Developed a publicly available Case-Shiller House Price Index package in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
 * Winter 2016: Education Committee Member at <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 * Summer 2013: Developed the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
