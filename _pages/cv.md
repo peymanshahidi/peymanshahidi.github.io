@@ -23,12 +23,6 @@ redirect_from:
 <font size="6" color="green">Language Skills</font>
 
 * English (Fluent)
-  * TOEFL iBT: (Taken Nov. 2021)
-    * Reading: 30
-    * Listening: 28
-    * Speaking: 27
-    * Writing: 28
-    * Total: 113
 * Persian (Native)
   
 <font size="6" color="green">Programming and Computer Skills</font>
