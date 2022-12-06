@@ -20,7 +20,7 @@ redirect_from:
     * Working on projects in the fields of Industrial Organization, Market Design, Market Microstructure, and Economics of Cryptocurrencies.
 * 2020: Part-time Research Assistant
   * Supervisor: <a href="https://teias.institute/~joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a>
-    * Worked on a project about house price indices in Iran. Developed <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Stata Commands</a>. for Iran's Case-Shiller house price index and Solar Hijri-Gregorian calendar conversion.
+    * Worked on a project about house price indices in Iran. Developed <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Stata Commands</a> for Iran's Case-Shiller house price index and Solar Hijri-Gregorian calendar conversion.
 
 <font size="6" color="green">Honors</font>
 
@@ -28,11 +28,6 @@ redirect_from:
 * 2018: Ranked among the top 0.05% in Iran’s M.A. University Entrance Exam.
 * 2013: Became a member of [Iran's National Elite Foundation](https://www.bmn.ir)
 * 2013: Ranked among the top 0.05% in Iran’s B.Sc. University Entrance Exam.
-
-<font size="6" color="green">Language Skills</font>
-
-* English (Fluent)
-* Persian (Native)
   
 <font size="6" color="green">Programming and Computer Skills</font>
 
@@ -53,8 +48,8 @@ redirect_from:
 
 <font size="6" color="green">Other Experiences</font>
 
-* Summer 2020: Developed publicly available packages for converting Gregorian calendar to Solar Hijri and vice versa in Stata. 
-* Summer 2020: Developed a publicly available Case-Shiller House Price Index package in Stata. See codes <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">here</a>.
+* Summer 2020: Developed two commands for converting Gregorian calendar to Solar Hijri and vice versa in Stata. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
+* Summer 2020: Developed a Case-Shiller House Price Index calculator command in Stata. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
 * Winter 2016: Education Committee Member at <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 * Summer 2013: Developed the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
 
