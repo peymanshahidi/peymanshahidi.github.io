@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome!"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 I am a Pre-doctoral Research Assistant at University of Chicago Booth School of Business. At Booth, I have been working for <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a> and <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a> on projects in the fields of Market Design, Industrial Organization, Market Microstructure, Covid-19 Policy, and Economics of Cryptocurrencies.
-I have a Master's in *Economics* and a Bachelor's in *Electrical Engineering*.
 
-Currently, I am planning to pursue a Ph.D. in Economics. My primary fields of interest are **market design**, **information design**, and **industrial organization**. I am also interested in topics from **labor economics**, **household finance**.
+I have a Master's in *Economics* and a Bachelor's in *Electrical Engineering*. Currently, I am planning to pursue a Ph.D. in Economics. My primary fields of interest are **market design**, **information design**, and **industrial organization**. I am also interested in topics from **labor economics**, **household finance**.
 
 
 
