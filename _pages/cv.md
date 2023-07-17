@@ -9,9 +9,9 @@ redirect_from:
 
 <font size="6" color="green">Education</font>
 
-* 2021: M.A. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a>, Khatam University, Iran.
-* 2018: B.Sc. in Electerical Engineering (Major), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
-* 2018: B.Sc. in Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
+* 2023-: Ph.D. in Management (IT), <a href="https://mitsloan.mit.edu" target="_blank" rel="noopener noreferrer">Massachusetts Institute of Technology</a>, Cambridge, MA, USA.
+* 2021: M.A. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a> at Khatam University, Tehran, Iran.
+* 2018: B.Sc. in Electerical Engineering (Major) and Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 
 <font size="6" color="green">Work Experiences</font>
 
@@ -35,6 +35,14 @@ redirect_from:
 * Packages: Dynare
 * Computer Skills: Microsoft Office (Word, Excel, PowerPoint), LaTex
 
+<font size="6" color="green">Other Experiences</font>
+
+* Summer 2020: Developed two commands for converting Gregorian calendar to Solar Hijri and vice versa in Stata. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
+* Summer 2020: Developed a Case-Shiller House Price Index calculator command in Stata. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
+* Winter 2016: Education Committee Member at <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
+* Summer 2013: Developed the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
+
+<!---
 <font size="6" color="green">Selected Graduate Courses</font>
 
 * Theory of Income II (Winter 2022) - UChicago Economics Ph.D. Core
@@ -46,13 +54,6 @@ redirect_from:
 * Financial Economics II (Fall 2019)
   * Prof. <a href="http://hagh-panah.ir/?i=1" target="_blank" rel="noopener noreferrer">F. Hagh-Panah</a>
 
-<font size="6" color="green">Other Experiences</font>
-
-* Summer 2020: Developed two commands for converting Gregorian calendar to Solar Hijri and vice versa in Stata. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
-* Summer 2020: Developed a Case-Shiller House Price Index calculator command in Stata. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
-* Winter 2016: Education Committee Member at <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
-* Summer 2013: Developed the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 Game</a> in C# Language (self-defined Project).
-
 <font size="6" color="green">References</font>
 
 * <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a> 
@@ -63,3 +64,4 @@ redirect_from:
   * Assistant Professor of Economics and Finance at Khatam University, TeIAS
 * <a href="https://teias.institute/~joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a>
   * Assistant Professor of Economics and Finance at Khatam University, TeIAS
+-->
