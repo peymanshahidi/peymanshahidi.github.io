@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Pre-doctoral Research Assistant at The University of Chicago, Booth School of Business. 
-My primary fields of interest are **market design**, **information design**, and **industrial organization**. I am also interested in topics from **labor economics** and **household finance**.
+
+I am an incoming PhD student at [MIT Sloan](https://mitsloan.mit.edu). Formerly, I was a Pre-doctoral Research Assistant at [The University of Chicago, Booth School of Business](https://www.chicagobooth.edu) from 2021 to 2023.
+
+My fields of interest are **market** and **information design**, **labor economics**, and **industrial organization** with a focus on economics of digital platforms.
 
 
 
