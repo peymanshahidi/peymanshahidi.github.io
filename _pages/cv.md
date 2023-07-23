@@ -10,21 +10,22 @@ redirect_from:
 <font size="6" color="green">Education</font>
 
 * 2023-: Ph.D. in Management (IT), <a href="https://mitsloan.mit.edu" target="_blank" rel="noopener noreferrer">Massachusetts Institute of Technology</a>, Cambridge, MA, USA.
-* 2021: M.A. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TeIAS)</a> at Khatam University, Tehran, Iran.
 * 2018: B.Sc. in Electerical Engineering (Major) and Economics (Minor), <a href="http://www.en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran. 
 
 <font size="6" color="green">Work Experiences</font>
 
-* 2021-: Pre-doctoral Research Assistant
+* 2021-2023: Pre-doctoral Research Assistant
   * Supervisors: <a href="https://faculty.chicagobooth.edu/eric.budish/index.html" target="_blank" rel="noopener noreferrer">Eric Budish</a>, <a href="https://anthonyleezhang.github.io" target="_blank" rel="noopener noreferrer">Anthony Lee Zhang</a>
-    * Working on projects in the fields of Industrial Organization, Market Design, Market Microstructure, and Economics of Cryptocurrencies.
-* 2020: Part-time Research Assistant
+    * Worked on projects in the fields of Industrial Organization, Market Design, Market Microstructure, Household Finance, and Economics of Cryptocurrencies.
+* 2020: Full-time Research Assistant
   * Supervisor: <a href="https://teias.institute/~joshaghani/" target="_blank" rel="noopener noreferrer">Hosein Joshaghani</a>
     * Worked on a project about house price indices in Iran. Developed <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Stata Commands</a> for Iran's Case-Shiller house price index and Solar Hijri-Gregorian calendar conversion.
+* 2021: Full-time Teaching Assistant
+  * Supervisor: <a href="https://teias.institute/~kamali/" target="_blank" rel="noopener noreferrer">Behrang Kamali Shahdadi</a>
+    * Held homework sessions and office hours for a Graduate-level course in Game Theory. 
 
 <font size="6" color="green">Honors</font>
 
-* 2018: Fellowship – Economics Department, TeIAS, Khatam University, Tehran, Iran.
 * 2018: Ranked among the top 0.05% in Iran’s M.A. University Entrance Exam.
 * 2013: Became a member of [Iran's National Elite Foundation](https://www.bmn.ir)
 * 2013: Ranked among the top 0.05% in Iran’s B.Sc. University Entrance Exam.
