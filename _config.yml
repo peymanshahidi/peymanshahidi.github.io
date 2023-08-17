@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peyman Shahidi"
 title_separator          : " "
 name                     : &name "Peyman Shahidi"
-description              : &description "Incoming Ph.D. Student"
+description              : &description "Ph.D. Student"
 url                      : https://peymanshahidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peymanshahidi/peymanshahidi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peyman Shahidi"
   avatar           : "avatar.jpg"
-  bio              : "Incoming Ph.D. Student at MIT Sloan"
+  bio              : "Ph.D. Student at MIT Sloan"
   location         : "Cambridge, MA."
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
