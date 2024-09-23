@@ -10,7 +10,8 @@ redirect_from:
 <font size="6" color="green">Education</font>
 
 * 2023–present: Ph.D. in Management, <a href="https://web.mit.edu" target="_blank" rel="noopener noreferrer">Massachusetts Institute of Technology</a>, Cambridge, MA.
-* 2018: B.Sc. in Electrical Engineering (Major) and Economics (Minor), <a href="https://en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran.
+* 2018: Minor in Economics, <a href="https://en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran.
+* 2018: B.Sc. in Electrical Engineering, <a href="https://en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran.
 
 <font size="6" color="green">Work Experience</font>
 
@@ -37,7 +38,7 @@ redirect_from:
 
 <font size="6" color="green">Other Experience</font>
 
-* Summer 2020: Developed Stata commands for converting the Gregorian calendar to Solar Hijri and vice versa. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
-* Summer 2020: Developed a Stata command for calculating the Case-Shiller house price index. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
-* Winter 2016: Member of the Education Committee at the <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
-* Summer 2013: Implemented the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 game</a> in C# (self-initiated project).
+* 2020: Developed Stata commands for converting the Gregorian calendar to Solar Hijri and vice versa. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
+* 2020: Developed a Stata command for calculating the Case-Shiller house price index. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
+* 2016: Member of the Education Committee at the <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
+* 2013: Implemented the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 game</a> in C# (self-initiated project).
