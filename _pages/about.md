@@ -15,3 +15,4 @@ My research focuses on the interplay between market and information design, labo
 
 <!---
 I have also worked on topics related to market microstructure, household finance, and the economics of cryptocurrencies.
+-->
