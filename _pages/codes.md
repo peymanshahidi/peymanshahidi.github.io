@@ -8,7 +8,6 @@ author_profile: true
 
 ---
 <font size="5" color="green">Stata Commands</font>
-<font size="2" color="black">(Click on item for more information)</font>
 
 
 - <a href="https://peymanshahidi.github.io/codes/stata/greg2sol" style="color:#36454F; text-decoration:none;">greg2sol</a>: Gregorian to Solar Hijri Calendar Conversion [(Installation + Test Materials)](https://github.com/peymanshahidi/greg2sol)
@@ -20,7 +19,6 @@ author_profile: true
 
 ---
 <font size="5" color="green">Python</font>
-<font size="2" color="black">(Click on item for more information)</font>
 
 - <a href="https://peymanshahidi.github.io/codes/python/searchwithlearning" style="color:#36454F; text-decoration:none;">A discrete-time Search model with Learning</a> - [(Jupyter Notebook file)](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
