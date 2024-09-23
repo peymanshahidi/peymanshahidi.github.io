@@ -13,7 +13,7 @@ author_profile: true
   [[Slides]](https://www.dropbox.com/s/b6e1i72cvhx8oi1/peyman_tapsi_slides_sep2022.pdf?dl=0)
   [[Paper]](https://www.dropbox.com/s/cd4l2kry97ya6f9/tapsi_draft_application2022.pdf?dl=0)
 
-
+<!--
 ---
 
 <font size="5" color="green">TeIAS Student Seminar</font> 
@@ -53,3 +53,4 @@ author_profile: true
 [[Slides]](https://peymanshahidi.github.io/Contract_Theory_Moral_Hazard_Presentation.pdf)
     - Patrick Legros and Steven A. Matthews, <i> The Review of Economic Studies, Volume 60, Issue 3, July 1993, Pages 599-611. </i> [[Paper 1]](https://www.jstor.org/stable/2298126?seq=1)
     - Jerry R. Green and Nancy L. Stokey, <i> Journal of Political Economy, Volume 91, Issue 3, June 1983, Pages 349-364. </i> [[Paper 2]](https://www.jstor.org/stable/1837093?seq=1)
+-->

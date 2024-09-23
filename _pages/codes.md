@@ -24,7 +24,7 @@ author_profile: true
 
 - <a href="https://peymanshahidi.github.io/codes/python/searchwithlearning" style="color:#36454F; text-decoration:none;">A discrete-time Search model with Learning</a> - [(Jupyter Notebook file)](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
 
-
+<!--
 ---
 <font size="5" color="green">Dynare</font>
 <font size="2" color="black">(Click on item for more information)</font>
@@ -34,7 +34,7 @@ author_profile: true
     - [[Midterm II Exam]](https://peymanshahidi.github.io/codes/dynare/macro_i_midterm2) - [[Midterm II Solution]](https://www.dropbox.com/s/ynfc43gmueg188z/Macro%20I%20-%20Midterm%20II%20-%20Dynare%20Solution.pdf?dl=0)
     - [[HW9]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw9) - [[HW9 Solution]](https://www.dropbox.com/s/zajyamvau4wrps2/pset9-solutions.pdf?dl=0)
     - [[HW8]](https://peymanshahidi.github.io/codes/dynare/macro_i_hw8) - [[HW8 Solution]](https://www.dropbox.com/s/4qulf1ihx90qv4a/pset8-solution.pdf?dl=0)
-
+-->
 
 
 <!-- - [Iran's House Price Index](https://peymanshahidi.github.io/codes/stata/iranhpi)  - [(ado file + test materials)](https://www.dropbox.com/sh/1ew8a1sr6j88kl4/AAClAPgk-GfUive-Nv6Ww9Uia?dl=0)

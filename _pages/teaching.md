@@ -11,6 +11,8 @@ author_profile: true
 - Fall 2019: Overlapping Generations (OLG) Models
 	- Introduction of OLG models to Financial Economics II course students.
 
+<!--
+
 ---
 <font size="5" color="green">Teaching Assistant</font>
 
@@ -27,3 +29,4 @@ author_profile: true
 	- Role: Dynare (Instructor + HW), holding weekly paper reading sessions
 	- Materials: [[Dynare]](https://peymanshahidi.github.io/codes/) [[Introduction to Paper Reading]](http://peymanshahidi.github.io/files/Presentation_and_Summarizing_Guidelines2020.pdf)
 
+-->
