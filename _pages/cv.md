@@ -16,10 +16,12 @@ redirect_from:
 
 * 2021–2023: Pre-doctoral Research Assistant
   * Conducted research on projects related to industrial organization, market design, market microstructure, household finance, and economics of cryptocurrencies.
+<!--
 * 2020: Full-time Research Assistant
   * Worked on a project related to housing prices in Iran. Developed <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Stata commands</a> for Iran's Case-Shiller house price index and Solar Hijri–Gregorian calendar conversion.
 * 2021: Full-time Teaching Assistant
   * Led recitations for a graduate-level course in Game Theory.
+-->
 
 <font size="6" color="green">Honors</font>
 
