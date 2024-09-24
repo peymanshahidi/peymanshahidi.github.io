@@ -15,7 +15,7 @@ redirect_from:
 
 <font size="6" color="green">Work Experience</font>
 
-* 2021–2023: Pre-doctoral Research Assistant
+* 2021–2023: Pre-doctoral Research Assistant at [University of Chicago, Booth School of Business](https://www.chicagobooth.edu)
   * Conducted research on projects related to industrial organization, market design, market microstructure, household finance, and economics of cryptocurrencies.
 
 <!--
@@ -41,4 +41,4 @@ redirect_from:
 * 2020: Developed Stata commands for converting the Gregorian calendar to Solar Hijri and vice versa. See <a href="https://peymanshahidi.github.io/code/" target="_blank" rel="noopener noreferrer">Code</a>.
 * 2020: Developed a Stata command for calculating the Case-Shiller house price index. See <a href="https://peymanshahidi.github.io/code/" target="_blank" rel="noopener noreferrer">Code</a>.
 * 2016: Member of the Education Committee at the <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
-* 2013: Implemented the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 game</a> in C# (self-initiated project).
+* 2013: Implemented the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 game</a> in C#
