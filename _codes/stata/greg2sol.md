@@ -1,9 +1,9 @@
 ---
 title: "Gregorian to Solar Hijri calendar converter"
-collection: codes
-permalink: /codes/stata/greg2sol
+collection: code
+permalink: /code/stata/greg2sol
 date: 2020-06-11
-venue: 'Stata Codes'
+venue: 'Stata'
 ---
 
 This program takes 3 inputs from Gregorian calendar with the following order: "year, month, day" and returns the corresponding dates in Solar Hijri calendar.

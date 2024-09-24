@@ -196,7 +196,7 @@ collections:
   presentations:
     output: true
     permalink: /:collection/:path/
-  codes:
+  code:
     output: true
     permalink: /:collection/:path/
 
@@ -280,10 +280,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-   # _codes
+   # _code
   - scope:
       path: ""
-      type: codes
+      type: code
     values:
       layout: single
       author_profile: true

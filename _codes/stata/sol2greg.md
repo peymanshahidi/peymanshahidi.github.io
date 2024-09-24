@@ -1,9 +1,9 @@
 ---
 title: "Solar Hijri to Gregorian calendar converter"
-collection: codes
-permalink: /codes/stata/sol2greg
+collection: code
+permalink: /code/stata/sol2greg
 date: 2020-06-11
-venue: 'Stata Codes'
+venue: 'Stata'
 ---
 
 This program takes a string input from Solar Hijri calendar with the following format: "year/month/day" and returns the corresponding dates in Gregorian calendar in %td format.

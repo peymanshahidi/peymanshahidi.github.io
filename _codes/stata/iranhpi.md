@@ -1,9 +1,9 @@
 ---
 title: "Iran's House Price Index"
-collection: codes
-permalink: /codes/stata/iranhpi
+collection: code
+permalink: /code/stata/iranhpi
 date: 2020-10-10
-venue: 'Stata Codes'
+venue: 'Stata'
 ---
 
 This command calculates monthly BMN and CS house price indices
