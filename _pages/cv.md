@@ -20,7 +20,7 @@ redirect_from:
 
 <!--
 * 2020: Full-time Research Assistant
-  * Worked on a project related to housing prices in Iran. Developed <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Stata commands</a> for Iran's Case-Shiller house price index and Solar Hijri–Gregorian calendar conversion.
+  * Worked on a project related to housing prices in Iran. Developed <a href="https://peymanshahidi.github.io/code/" target="_blank" rel="noopener noreferrer">Stata commands</a> for Iran's Case-Shiller house price index and Solar Hijri–Gregorian calendar conversion.
 * 2021: Full-time Teaching Assistant
   * Led recitations for a graduate-level course in Game Theory.
 -->
@@ -38,7 +38,7 @@ redirect_from:
 
 <font size="6" color="green">Other Experience</font>
 
-* 2020: Developed Stata commands for converting the Gregorian calendar to Solar Hijri and vice versa. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
-* 2020: Developed a Stata command for calculating the Case-Shiller house price index. See <a href="https://peymanshahidi.github.io/codes/" target="_blank" rel="noopener noreferrer">Codes</a>.
+* 2020: Developed Stata commands for converting the Gregorian calendar to Solar Hijri and vice versa. See <a href="https://peymanshahidi.github.io/code/" target="_blank" rel="noopener noreferrer">Code</a>.
+* 2020: Developed a Stata command for calculating the Case-Shiller house price index. See <a href="https://peymanshahidi.github.io/code/" target="_blank" rel="noopener noreferrer">Code</a>.
 * 2016: Member of the Education Committee at the <a href="http://enerwat.sharif.ir/?lang=en" target="_blank" rel="noopener noreferrer">Sharif Event on Water and Energy Nexus (Enerwat 2016)</a>.
 * 2013: Implemented the <a href="https://en.wikipedia.org/wiki/2048_(video_game)" target="_blank" rel="noopener noreferrer">2048 game</a> in C# (self-initiated project).
