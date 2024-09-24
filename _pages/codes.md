@@ -7,7 +7,7 @@ author_profile: true
 {% seo %}
 
 ---
-<font size="5" color="green">Stata Commands</font>
+<font size="5" color="green">Stata</font>
 
 
 - <a href="https://peymanshahidi.github.io/codes/stata/greg2sol" style="color:#36454F; text-decoration:none;">greg2sol</a>: Gregorian to Solar Hijri Calendar Conversion [(Installation + Test Materials)](https://github.com/peymanshahidi/greg2sol)
