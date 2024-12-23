@@ -20,7 +20,7 @@ author_profile: true
 ---
 <font size="5" color="green">Python</font>
 
-- <a href="https://peymanshahidi.github.io/code/python/searchwithlearning" style="color:#36454F; text-decoration:none;">A discrete-time Search model with Learning</a> - [(Jupyter Notebook file)](https://www.dropbox.com/s/lkkalblyygw2uus/Search_With_Learning.html?dl=0)
+- <a href="https://peymanshahidi.github.io/code/python/searchwithlearning" style="color:#36454F; text-decoration:none;">A discrete-time Search model with Learning</a> - [(Jupyter Notebook File)](https://github.com/peymanshahidi/search_with_learning)
 
 <!--
 ---
