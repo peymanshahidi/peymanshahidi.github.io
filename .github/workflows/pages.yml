@@ -1,3 +1,5 @@
+mkdir -p .github/workflows
+
 cat > .github/workflows/pages.yml <<'YAML'
 name: Deploy Jekyll with GitHub Pages
 
@@ -41,11 +43,11 @@ jobs:
           path: ./_site
 
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
@@ -53,5 +55,5 @@ jobs:
 YAML
 
 git add .github/workflows/pages.yml
-git commit -m "Fix workflow: correct deploy-pages action ref"
+git commit -m "Fix workflow: remove stray comment from deploy-pages ref"
 git push origin alfolio-migration
