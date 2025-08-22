@@ -1,3 +1,4 @@
+cat > .github/workflows/pages.yml <<'YAML'
 name: Deploy Jekyll with GitHub Pages
 
 on:
@@ -20,27 +21,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: false   # we'll control bundler explicitly
-
-      # ✅ Fix: ensure Linux platform gems are allowed even if lockfile is from macOS
-      - name: Configure bundler for Linux builds
+          bundler-cache: false
+      - name: Configure bundler (linux platform)
         run: |
           bundle config set force_ruby_platform true
           bundle lock --add-platform x86_64-linux || true
-
-      - name: Install dependencies
+      - name: Install Ruby deps
         run: bundle install --jobs 4 --retry 3
-
       - name: Build site
         env:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --baseurl ""
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -50,8 +44,14 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     needs: build
+    runs-on: ubuntu-latest
     steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4# (paste the YAML above)
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+YAML
+
+git add .github/workflows/pages.yml
+git commit -m "Fix workflow: correct deploy-pages action ref"
+git push origin alfolio-migration
