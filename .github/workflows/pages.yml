@@ -2,9 +2,7 @@ name: Deploy Jekyll with GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-      - alfolio-migration   # 👈 add this line so it builds your test branch too
+    branches: [ main, alfolio-migration ]
   workflow_dispatch:
 
 permissions:
@@ -22,18 +20,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1   # matches what al-folio uses
+          ruby-version: '3.1'
           bundler-cache: true
 
       - name: Install dependencies
-        run: bundle install
+        run: bundle install --jobs 4 --retry 3
 
-      - name: Build site with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ github.event.repository.name }}"
-
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: |
+          # user site => baseurl must be empty
+          bundle exec jekyll build --baseurl ""
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
