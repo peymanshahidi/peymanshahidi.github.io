@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Peyman # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
+title: Peyman Shahidi's Website # the website title (if blank, full name will be used instead)
+first_name: Peyman
+middle_name: 
 last_name: Shahidi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
