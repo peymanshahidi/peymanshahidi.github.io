@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>Ph.D. Candidate at MIT Sloan</a>.
+subtitle:
 
 profile:
   align: right
   image: avatar.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>E62-461</p>
+    <p>E62-461,</p>
     <p>100 Main Street</p>
-    <p>Cambridge, MA 02142</p>
+    <p>Cambridge, MA, 02142</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>Ph.D. Candidate at MIT Sloan</a>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Ph.D. candidate at [MIT Sloan](https://mitsloan.mit.edu/programs/phd/peyman-shahidi). Previously, I worked as a Pre-doctoral Research Assistant at [UChicago Booth](https://www.chicagobooth.edu). I hold a B.Sc. in Electrical Engineering with a minor in Economics from [Sharif University of Technology](https://en.sharif.edu).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on the interplay between market and information design, labor economics, and industrial organization in digital platforms. More recently, I have begun exploring how Artificial Intelligence (AI) is reshaping the world.
