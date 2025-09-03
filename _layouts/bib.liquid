@@ -185,6 +185,11 @@
       {{ entry.note | strip }}
     </div>
 
+    {%- assign kw = entry.keywords | downcase | strip -%}
+    {%- if kw contains 'working' -%}
+      <div class="draft-note"><em>Draft is available upon request.</em></div>
+    {%- endif -%}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
