@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Code
-description: Below are a few repositories I’ve built and contributed to over time.
+description: Below are a few repositories I've built and/or contributed to over time.
 nav: true
 nav_order: 4
 ---

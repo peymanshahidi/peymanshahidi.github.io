@@ -36,5 +36,5 @@ I am a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman
 <p>
 
 <p>
-Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&e=1&dl=0'>CV</a>. You can reach me at <a  href="mailto:peymansh@mit.edu">peymansh@mit.edu</a>.
+Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&dl=0'>CV</a>. You can reach me at <a  href="mailto:peymansh@mit.edu">peymansh@mit.edu</a>.
 <p>
