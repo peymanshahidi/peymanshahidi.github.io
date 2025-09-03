@@ -31,8 +31,10 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I am a Ph.D. Candidate at <a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>. Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&e=1&dl=0'>CV</a>. You can reach me at <a href="mailto:peymansh@mit.edu">peymansh@mit.edu</a>.
+<p>
+I am a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>. I'm interested in researching the intersection of market and information design, along with labor economics. Recently, I've been studying how Artificial Intelligence (AI) is reshaping the world. 
+<p>
 
-<br>
-
-I'm primarily interested in researching the intersection of market and information design, along with labor economics. More recently, I've also started exploring how Artificial Intelligence (AI) is reshaping the world.
+<p>
+Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&e=1&dl=0'>CV</a>. You can reach me at <a  href="mailto:peymansh@mit.edu">peymansh@mit.edu</a>.
+<p>
