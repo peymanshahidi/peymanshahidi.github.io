@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I am a Ph.D. candidate at MIT Sloan. Previously, I worked as a Pre-doctoral Research Assistant at University of Chicago, Booth School of Business. I hold a B.Sc. in Electrical Engineering with a minor in Economics from Sharif University of Technology in Iran.
+I am a Ph.D. candidate at MIT Sloan. Previously, I worked as a Pre-doctoral Research Assistant at University of Chicago, Booth School of Business. I hold a B.Sc. in Electrical Engineering with a minor in Economics from Sharif University of Technology in Iran. Here's my <a href='https://peymanshahidi.github.io/cv/'>CV</a>.
 
 
 I'm broadly interested in researching the interplay between market and information design as well as labor economics. More recently, I have begun exploring how Artificial Intelligence (AI) is reshaping the world.
