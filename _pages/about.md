@@ -25,13 +25,12 @@ social: true # includes social icons at the bottom of the page
 #   enabled: false
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
+
+# <a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>Ph.D. Candidate at MIT Sloan</a>
 ---
-
-<a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>Ph.D. Candidate at MIT Sloan</a>
-
-<br>
 
 I am a Ph.D. candidate at MIT Sloan. Here's my <a href='https://peymanshahidi.github.io/cv/'>CV</a>.
 
+<br>
 
 I'm broadly interested in researching the interplay between market and information design as well as labor economics. More recently, I have begun exploring how Artificial Intelligence (AI) is reshaping the world.

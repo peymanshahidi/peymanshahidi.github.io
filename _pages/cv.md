@@ -1,11 +1,12 @@
 ---
-layout: cv
+# layout: cv
+layout: page
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&dl=0 # you can also use external links here
+description: Here is my CV.
 toc:
   sidebar: left
 ---
