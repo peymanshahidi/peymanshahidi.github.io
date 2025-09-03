@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I am a Ph.D. candidate at MIT Sloan. Here's my <a href='https://peymanshahidi.github.io/cv/'>CV</a>.
+I am a Ph.D. candidate at MIT Sloan. Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&e=1&dl=0'>CV</a>.
 
 <br>
 
