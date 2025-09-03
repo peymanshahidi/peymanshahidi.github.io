@@ -35,4 +35,4 @@ I am a Ph.D. Candidate at <a href='https://mitsloan.mit.edu/programs/phd/peyman-
 
 <br>
 
-I'm broadly interested in researching the interplay between market and information design as well as labor economics. More recently, I have begun exploring how Artificial Intelligence (AI) is reshaping the world.
+I'm primarily interested in researching the intersection of market and information design, along with labor economics. More recently, I've also started exploring how Artificial Intelligence (AI) is reshaping the world.
