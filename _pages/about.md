@@ -29,6 +29,10 @@ social: true # includes social icons at the bottom of the page
 
 <a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>Ph.D. Candidate at MIT Sloan</a>
 
-<p><strong>Bio:</strong> I am a Ph.D. candidate at MIT Sloan. Previously, I worked as a Pre-doctoral Research Assistant at University of Chicago, Booth School of Business. I hold a B.Sc. in Electrical Engineering with a minor in Economics from Sharif University of Technology in Iran.</p>
+<br>
 
-<p><strong>Research Interests:</strong> I'm broadly interested in researching the interplay between market and information design as well as labor economics. More recently, I have begun exploring how Artificial Intelligence (AI) is reshaping the world.</p>
+I am a Ph.D. candidate at MIT Sloan. Previously, I worked as a Pre-doctoral Research Assistant at University of Chicago, Booth School of Business. I hold a B.Sc. in Electrical Engineering with a minor in Economics from Sharif University of Technology in Iran.
+
+<br>
+
+I'm broadly interested in researching the interplay between market and information design as well as labor economics. More recently, I have begun exploring how Artificial Intelligence (AI) is reshaping the world.
