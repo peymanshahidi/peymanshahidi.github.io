@@ -29,6 +29,8 @@ social: true # includes social icons at the bottom of the page
 # <a href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>Ph.D. Candidate at MIT Sloan</a>
 ---
 
+<br>
+
 I am a Ph.D. candidate at MIT Sloan. Here's my <a href='https://peymanshahidi.github.io/cv/'>CV</a>.
 
 <br>
