@@ -17,3 +17,16 @@
 "lucier":
   - firstname: ["Brendan", "B."]
     url: https://www.microsoft.com/en-us/research/people/brlucier/
+
+"rusak":
+  - firstname: ["Gili", "G."]
+    url: https://gilirusak.github.io
+
+"manning":
+  - firstname: ["Benjamin", "B.", "Benjamin Scott", "Benjamin S.", "Ben S.", "B. S."]
+    url: https://benjaminmanning.io
+
+"fradkin":
+  - firstname: ["Andrey", "A."]
+    url: https://andreyfradkin.com
+
