@@ -1,1 +1,0 @@
-If you wanna change tab titles of main page go to _data -> navigation

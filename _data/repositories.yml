@@ -1,0 +1,11 @@
+github_users:
+  - peymanshahidi
+
+repo_description_lines_max: 2
+
+github_repos:
+  - peymanshahidi/greg2sol
+  - peymanshahidi/sol2greg
+  - peymanshahidi/iranhpi
+  - peymanshahidi/search_with_learning
+  - johnjosephhorton/rubin
