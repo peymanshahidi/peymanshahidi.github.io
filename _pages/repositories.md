@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Code
 description: Below are a few repositories I've built and/or contributed to over time.
-nav: true
+nav: false
 nav_order: 4
 ---
 
