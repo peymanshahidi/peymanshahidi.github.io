@@ -38,11 +38,15 @@
       {% endif %}
       {% if include.width %}
         width="{{ include.width }}"
+      {% elsif include.zoomable %}
+        width="auto"
       {% else %}
         width="100%"
       {% endif %}
       {% if include.height %}
         height="{{ include.height }}"
+      {% elsif include.zoomable %}
+        height="auto"
       {% else %}
         height="auto"
       {% endif %}
@@ -76,7 +80,7 @@
       {% elsif site.lazy_loading_images %}
         loading="lazy"
       {% endif %}
-      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+      onerror="this.onerror=null; var src = this.closest('picture'); if (src) { var s = src.querySelector('.responsive-img-srcset'); if (s) s.remove(); }"
     >
   </picture>
 

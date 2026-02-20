@@ -736,6 +736,8 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+        width: 100%;
+        height: auto;
       }
 
       .abbr {
@@ -791,6 +793,13 @@ footer.sticky-bottom {
             border-bottom: 1px dashed var(--global-text-color);
           }
         }
+      }
+
+      .description {
+        font-size: 0.875rem;
+        color: var(--global-text-color);
+        margin-top: 0.35rem;
+        margin-bottom: 0.25rem;
       }
 
       .links {
@@ -1141,6 +1150,13 @@ nav[data-toggle="toc"] {
 .medium-zoom-overlay,
 .medium-zoom-image--opened {
   z-index: 999;
+}
+
+.medium-zoom-image--opened {
+  width: auto !important;
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
 }
 
 #toc-sidebar {

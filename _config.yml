@@ -306,6 +306,8 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    description,
+    draft,
     google_scholar_id,
     html,
     inspirehep_id,
