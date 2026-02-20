@@ -4,8 +4,37 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - peymanshahidi/greg2sol
-  - peymanshahidi/sol2greg
-  - peymanshahidi/iranhpi
-  - peymanshahidi/search_with_learning
-  - johnjosephhorton/rubin
+  - name: greg2sol
+    owner: peymanshahidi
+    description: Gregorian to Solar Hijri Calendar Conversion in Stata
+    language: Stata
+    stars: 3
+    forks: 0
+
+  - name: sol2greg
+    owner: peymanshahidi
+    description: Solar Hijri to Gregorian Calendar Conversion in Stata
+    language: Stata
+    stars: 0
+    forks: 0
+
+  - name: iranhpi
+    owner: peymanshahidi
+    description: Iran BMN and Case-Shiller House Price Indices in Stata
+    language: Stata
+    stars: 0
+    forks: 0
+
+  - name: search_with_learning
+    owner: peymanshahidi
+    description: McCall Search Model with Distribution Learning for Online Taxi Drivers
+    language: Jupyter Notebook
+    stars: 0
+    forks: 0
+
+  - name: rubin
+    owner: johnjosephhorton
+    description: Rubin Causal Model
+    language: Jupyter Notebook
+    stars: 0
+    forks: 0

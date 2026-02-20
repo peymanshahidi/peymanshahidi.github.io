@@ -544,6 +544,100 @@ footer.sticky-bottom {
   }
 }
 
+.repo-card-link {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.repo-card {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  padding: 16px;
+  text-align: left;
+  background-color: var(--global-bg-color);
+  transition: border-color 0.2s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+  }
+}
+
+.repo-card-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.repo-card-icon {
+  color: var(--global-text-color-light);
+  margin-right: 8px;
+  font-size: 0.875rem;
+}
+
+.repo-card-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--global-theme-color);
+}
+
+.repo-card-description {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 12px;
+  flex-grow: 1;
+  line-height: 1.4;
+}
+
+.repo-card-footer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 0.75rem;
+  color: var(--global-text-color-light);
+}
+
+.repo-card-language {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.repo-card-language-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #6e7681;
+
+  &[data-language="Stata"] {
+    background-color: #1a5f91;
+  }
+  &[data-language="Python"] {
+    background-color: #3572a5;
+  }
+  &[data-language="Jupyter Notebook"] {
+    background-color: #da5b0b;
+  }
+  &[data-language="R"] {
+    background-color: #198ce7;
+  }
+  &[data-language="JavaScript"] {
+    background-color: #f1e05a;
+  }
+  &[data-language="TypeScript"] {
+    background-color: #3178c6;
+  }
+}
+
+.repo-card-stat {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
 // Blog
 
 .header-bar {
