@@ -32,5 +32,9 @@ social: true # includes social icons at the bottom of the page
 <br>
 
 <p>
-I am a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>, interested in researching labor economics, market design, and economics of AI. Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&dl=0'>CV</a>. You can reach me at <a  href="mailto:peymansh@mit.edu">peymansh@mit.edu</a>.
+I'm a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>, interested in researching labor economics, market design, and economics of AI.
+<p>
+
+<p>
+Here's my <a href='https://www.dropbox.com/scl/fi/jg983k55bvriqfdm0mxdp/PeymanShahidi_CV.pdf?rlkey=3t8kcev8h4zz6go4slomxyktz&dl=0'>CV</a>. You can reach me at <a  href="mailto:peymansh@mit.edu">peymansh@mit.edu</a>.
 <p>
