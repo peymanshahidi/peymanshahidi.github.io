@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 
 <p>
-I'm a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>, interested in researching labor economics, market design, and economics of AI.
+I'm a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>, interested in labor economics, market design, and economics of AI.
 <p>
 
 <p>
