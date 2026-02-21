@@ -260,6 +260,15 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.buttons %}
+        {% assign button_list = entry.buttons | split: '; ' %}
+        {% for button in button_list %}
+          {% assign btn_parts = button | split: '::' %}
+          {% if btn_parts.size == 2 %}
+            <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0" role="button">{{ btn_parts[0] | strip }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
