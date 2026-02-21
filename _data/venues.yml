@@ -5,7 +5,8 @@
   color: "#00369f"
 
 "Book Chapter":
-  color: "#DAA520"
+  # color: "#DAA520" # goldenrod
+  color: "#0054A6" # royal blue
 
 "NBER Working Paper":
   color: "#0054A6"
