@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 
 <p>
-I am a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>. I'm interested in researching the intersection of market and information design, along with labor economics. Recently, I've been studying how Artificial Intelligence (AI) is reshaping the world. 
+I am a Ph.D. Candidate at <a  href='https://mitsloan.mit.edu/programs/phd/peyman-shahidi'>MIT Sloan</a>, interested in researching labor economics, market design, and economics of AI.
 <p>
 
 <br>
