@@ -31,11 +31,9 @@
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' | relative_url %}
           <img
-            class="preview z-depth-1 rounded"
+            class="preview z-depth-1 rounded preview-zoomable"
             src="{{ entry_path }}"
             alt="{{ entry.preview }}"
-            data-zoomable
-            data-zoom-src="{{ entry_path }}"
             loading="eager"
           >
         {% endif %}
