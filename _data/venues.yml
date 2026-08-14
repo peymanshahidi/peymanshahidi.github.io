@@ -8,3 +8,7 @@
   # color: "#DAA520" # goldenrod
   color: "#0054A6" # royal blue
   color: "#009f36" # green
+
+"EC '26":
+  color: "#009f36" # green
+  url: "https://doi.org/10.1145/3821539.3827858"
