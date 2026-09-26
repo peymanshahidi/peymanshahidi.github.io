@@ -11,4 +11,6 @@
 
 "EC '26":
   color: "#009f36" # green
-  url: "https://doi.org/10.1145/3821539.3827858"
+
+"INFORMS '26":
+  color: "#009f36" # green
