@@ -930,18 +930,22 @@ footer.sticky-bottom {
           "btn-slides": #c2410c,
           "btn-job-design-visualizer": #2e7d32,
           "btn-chaining-demo-game": #6a1b9a,
+          "btn-twitter-thread": #1da1f2,
         );
+        // Light fills that need dark text (white on #1da1f2 is only 2.8:1)
+        $link-button-dark-text: ("btn-twitter-thread");
         @each $name, $bg in $link-button-colors {
+          $fg: if(index($link-button-dark-text, $name), #0f1419, #fff);
           a.btn.#{$name} {
             background-color: $bg;
             border-color: $bg;
-            color: #fff;
+            color: $fg;
 
             &:hover,
             &:focus {
               background-color: $bg;
               border-color: $bg;
-              color: #fff;
+              color: $fg;
               filter: brightness(0.85);
             }
           }
