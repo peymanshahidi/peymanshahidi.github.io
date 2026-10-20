@@ -197,13 +197,36 @@
 
     <!-- Links/Buttons -->
     <div class="links">
+      {% if entry.abstract %}
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      {% endif %}
+      {% if entry.pdf %}
+        {% if entry.pdf contains '://' %}
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
+        {% else %}
+          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
+        {% endif %}
+      {% endif %}
+      {% comment %} Fixed order: Abstract, PDF, then these custom buttons; everything else follows {% endcomment %}
+      {% assign pinned_buttons = 'Twitter Thread|NBER Working Paper' | split: '|' %}
+      {% if entry.buttons %}
+        {% assign button_list = entry.buttons | split: '; ' %}
+        {% for pinned in pinned_buttons %}
+          {% for button in button_list %}
+            {% assign btn_parts = button | split: '::' %}
+            {% assign btn_label = btn_parts[0] | strip %}
+            {% if btn_parts.size == 2 and btn_label == pinned %}
+              <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0 btn-{{ btn_label | slugify }}" role="button">
+                {{- btn_label -}}
+              </a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      {% endif %}
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
-      {% endif %}
-      {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
@@ -219,13 +242,6 @@
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.pdf %}
-        {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
-        {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
@@ -267,10 +283,13 @@
         {% assign button_list = entry.buttons | split: '; ' %}
         {% for button in button_list %}
           {% assign btn_parts = button | split: '::' %}
+          {% assign btn_label = btn_parts[0] | strip %}
           {% if btn_parts.size == 2 %}
-            <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0 btn-{{ btn_parts[0] | strip | slugify }}" role="button">
-              {{- btn_parts[0] | strip -}}
-            </a>
+            {% unless pinned_buttons contains btn_label %}
+              <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0 btn-{{ btn_label | slugify }}" role="button">
+                {{- btn_label -}}
+              </a>
+            {% endunless %}
           {% endif %}
         {% endfor %}
       {% endif %}
