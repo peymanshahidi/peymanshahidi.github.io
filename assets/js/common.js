@@ -15,6 +15,15 @@ $(document).ready(function () {
     $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
   });
+  // toggle buttons have no href, so make them keyboard-operable
+  $("a.abstract, a.award, a.bibtex")
+    .attr("tabindex", "0")
+    .on("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        $(this).click();
+      }
+    });
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc
