@@ -10,7 +10,10 @@
     <div class="repo-card">
       <div class="repo-card-header">
         <i class="fa-solid fa-book-bookmark repo-card-icon"></i>
-        <span class="repo-card-name">{% if show_owner %}{{ repo.owner }}/{% endif %}{{ repo.name }}</span>
+        <span class="repo-card-name">
+          {%- if show_owner %}{{ repo.owner }}/{% endif -%}
+          {{- repo.name -}}
+        </span>
       </div>
       {% if repo.description %}
         <p class="repo-card-description">{{ repo.description }}</p>
@@ -23,14 +26,10 @@
           </span>
         {% endif %}
         {% if repo.stars and repo.stars > 0 %}
-          <span class="repo-card-stat">
-            <i class="fa-regular fa-star"></i> {{ repo.stars }}
-          </span>
+          <span class="repo-card-stat"> <i class="fa-regular fa-star"></i> {{ repo.stars }} </span>
         {% endif %}
         {% if repo.forks and repo.forks > 0 %}
-          <span class="repo-card-stat">
-            <i class="fa-solid fa-code-fork"></i> {{ repo.forks }}
-          </span>
+          <span class="repo-card-stat"> <i class="fa-solid fa-code-fork"></i> {{ repo.forks }} </span>
         {% endif %}
       </div>
     </div>

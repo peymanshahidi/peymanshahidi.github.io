@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
+  <div class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
@@ -12,13 +12,14 @@ layout: default
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
-  </header>
+  </div>
 
   <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% assign profile_alt = 'Photo of ' | append: site.first_name | append: ' ' | append: site.last_name %}
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
@@ -28,7 +29,7 @@ layout: default
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile_alt
             cache_bust=true
           %}
         {% endif %}
@@ -63,9 +64,6 @@ layout: default
 
       <h2>Working Papers &amp; Conference Publication</h2>
       {% include working_papers.liquid %}
-
-      <h2>Work in Progress</h2>
-      {% include wip_papers.liquid %}
     {% endif %}
 
     <!-- Social -->

@@ -814,7 +814,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light); // divider color was 1.24:1 on white
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -841,7 +841,11 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: #fff !important; // white in both themes so venue colors keep >= 4.5:1 contrast
+
+          div {
+            color: #fff;
+          }
 
           a {
             color: white;
@@ -1534,4 +1538,12 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
+}
+
+// Underline links inside running text so they are distinguishable without relying on color (WCAG 1.4.1)
+article p a,
+.publications .description a,
+footer .container > a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }

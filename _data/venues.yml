@@ -5,14 +5,12 @@
   color: "#00369f"
 
 "Book Chapter":
-  # color: "#DAA520" # goldenrod
-  color: "#0054A6" # royal blue
-  color: "#009f36" # green
+  color: "#007a2a" # green (dark enough for white text, WCAG AA)
 
 # Keys use a curly apostrophe (’): the bibtex "latex" filter converts the
 # straight ' in papers.bib abbr fields, so a straight-quote key never matches.
 "EC ’26":
-  color: "#009f36" # green
+  color: "#007a2a" # green
 
 "INFORMS ’26":
-  color: "#009f36" # green
+  color: "#007a2a" # green

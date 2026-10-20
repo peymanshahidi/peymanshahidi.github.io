@@ -36,7 +36,7 @@
           <img
             class="preview z-depth-1 rounded preview-zoomable"
             src="{{ entry_path }}"
-            alt="{{ entry.preview }}"
+            alt="Preview figure for {{ entry.title | escape }}"
             loading="eager"
           >
         {% endif %}
@@ -377,7 +377,7 @@
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
-        {% endhighlight %}
+      {% endhighlight %}
       </div>
     {% endif %}
 
