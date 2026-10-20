@@ -932,21 +932,30 @@ footer.sticky-bottom {
           "btn-chaining-demo-game": #6a1b9a,
           "btn-twitter-thread": #1da1f2,
         );
-        // Light fills that need dark text (white on #1da1f2 is only 2.8:1)
+        // Fill opacity; label text stays fully opaque
+        $link-button-alpha: 0.6;
+        // Light fills that need dark text in light mode (white on #1da1f2 is only 2.8:1)
         $link-button-dark-text: ("btn-twitter-thread");
         @each $name, $bg in $link-button-colors {
           $fg: if(index($link-button-dark-text, $name), #0f1419, #fff);
+          $fill: rgba($bg, $link-button-alpha);
           a.btn.#{$name} {
-            background-color: $bg;
-            border-color: $bg;
+            background-color: $fill;
+            border-color: $fill;
             color: $fg;
 
             &:hover,
             &:focus {
-              background-color: $bg;
-              border-color: $bg;
+              background-color: $fill;
+              border-color: $fill;
               color: $fg;
               filter: brightness(0.85);
+            }
+          }
+          // On the dark background the faded fill darkens, so white text reads better
+          @if index($link-button-dark-text, $name) {
+            html[data-theme="dark"] & a.btn.#{$name} {
+              color: #fff;
             }
           }
         }
