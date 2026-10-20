@@ -223,9 +223,9 @@
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
@@ -268,7 +268,9 @@
         {% for button in button_list %}
           {% assign btn_parts = button | split: '::' %}
           {% if btn_parts.size == 2 %}
-            <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0" role="button">{{ btn_parts[0] | strip }}</a>
+            <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0 btn-{{ btn_parts[0] | strip | slugify }}" role="button">
+              {{- btn_parts[0] | strip -}}
+            </a>
           {% endif %}
         {% endfor %}
       {% endif %}

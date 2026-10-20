@@ -920,6 +920,32 @@ footer.sticky-bottom {
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
+
+        // Per-button fill colors; white text keeps >= 5:1 contrast on each
+        $link-button-colors: (
+          "abstract": #1a5fb4,
+          "btn-pdf": #c62828,
+          "btn-nber-working-paper": #002f5d,
+          "btn-nber-book-chapter": #a84830,
+          "btn-slides": #c2410c,
+          "btn-job-design-visualizer": #2e7d32,
+          "btn-chaining-demo-game": #6a1b9a,
+        );
+        @each $name, $bg in $link-button-colors {
+          a.btn.#{$name} {
+            background-color: $bg;
+            border-color: $bg;
+            color: #fff;
+
+            &:hover,
+            &:focus {
+              background-color: $bg;
+              border-color: $bg;
+              color: #fff;
+              filter: brightness(0.85);
+            }
+          }
+        }
       }
 
       .badges {
