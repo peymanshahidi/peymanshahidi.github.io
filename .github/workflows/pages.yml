@@ -25,9 +25,6 @@ jobs:
           bundler: "2.6.9"
           bundler-cache: true
 
-      # ImageMagick is not preinstalled on ubuntu-latest; without it jekyll-imagemagick skips the responsive webp variants
-      - run: sudo apt-get update && sudo apt-get install -y imagemagick
-
       - run: bundle exec jekyll build --destination _site
         env:
           JEKYLL_ENV: production
