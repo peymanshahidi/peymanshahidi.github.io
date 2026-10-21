@@ -176,7 +176,16 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% capture entrydate %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% assign entrydate = entrydate | strip %}
+    {% comment %} "Sep 2026 (Venue)"; date or venue alone when the other is missing {% endcomment %}
+    {% if entrytype_text == '' %}
+      {% capture periodical %}{{ entrydate }}{% endcapture %}
+    {% elsif entrydate == '' %}
+      {% capture periodical %}{{ entrytype }}{% endcapture %}
+    {% else %}
+      {% capture periodical %}{{ entrydate }} ({{ entrytype }}){% endcapture %}
+    {% endif %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
