@@ -211,9 +211,16 @@
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0 btn-pdf" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0 btn-pdf" role="button">PDF</a>
+          <a
+            href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}"
+            class="btn btn-sm z-depth-0 btn-pdf"
+            role="button"
+            target="_blank"
+            rel="noopener noreferrer"
+            >PDF</a
+          >
         {% endif %}
       {% endif %}
       {% comment %} Fixed order: Abstract, PDF, then these custom buttons; everything else follows {% endcomment %}
@@ -225,7 +232,14 @@
             {% assign btn_parts = button | split: '::' %}
             {% assign btn_label = btn_parts[0] | strip %}
             {% if btn_parts.size == 2 and btn_label == pinned %}
-              <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0 btn-{{ btn_label | slugify }}" role="button">
+              <a
+                href="{{ btn_parts[1] | strip }}"
+                class="btn btn-sm z-depth-0 btn-{{ btn_label | slugify }}"
+                role="button"
+                {% if btn_parts[1] contains '.pdf' %}
+                  target="_blank" rel="noopener noreferrer"
+                {% endif %}
+              >
                 {{- btn_label -}}
               </a>
             {% endif %}
@@ -295,7 +309,14 @@
           {% assign btn_label = btn_parts[0] | strip %}
           {% if btn_parts.size == 2 %}
             {% unless pinned_buttons contains btn_label %}
-              <a href="{{ btn_parts[1] | strip }}" class="btn btn-sm z-depth-0 btn-{{ btn_label | slugify }}" role="button">
+              <a
+                href="{{ btn_parts[1] | strip }}"
+                class="btn btn-sm z-depth-0 btn-{{ btn_label | slugify }}"
+                role="button"
+                {% if btn_parts[1] contains '.pdf' %}
+                  target="_blank" rel="noopener noreferrer"
+                {% endif %}
+              >
                 {{- btn_label -}}
               </a>
             {% endunless %}
