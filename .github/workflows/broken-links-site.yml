@@ -1,14 +1,13 @@
 name: Check for broken links on site
 
+# Weekly and on demand, instead of after every deploy (the check rebuilds the whole site)
 on:
-  workflow_run:
-    workflows: [Deploy site]
-    types: [completed]
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch:
 
 jobs:
   check-links-on-site:
-    # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-a-workflow-based-on-the-conclusion-of-another-workflow
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -29,16 +28,11 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
-      - name: Install and Build 🔧
+      # No ImageMagick/Jupyter: responsive images are disabled and the site has no notebooks
+      - name: Build 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
-      - name: Purge unused CSS 🧹
-        run: |
-          npm install -g purgecss
-          purgecss -c purgecss.config.js
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v1.9.0
         with:

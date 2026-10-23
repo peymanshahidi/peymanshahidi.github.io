@@ -186,6 +186,31 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # Unused theme demo media and retired images (not referenced by any published page)
+  - assets/video/
+  - assets/audio/
+  - assets/plotly/
+  - assets/img/book_covers/
+  - assets/img/1.jpg
+  - assets/img/2.jpg
+  - assets/img/3.jpg
+  - assets/img/4.jpg
+  - assets/img/5.jpg
+  - assets/img/6.jpg
+  - assets/img/7.jpg
+  - assets/img/8.jpg
+  - assets/img/9.jpg
+  - assets/img/10.jpg
+  - assets/img/11.jpg
+  - assets/img/12.jpg
+  - assets/img/rhino.png
+  - assets/img/prof_pic.jpg
+  - assets/img/prof_pic_color.png
+  - assets/img/avatar_original.jpg
+  - assets/img/template_error.png
+  - assets/img/publication_preview/brownian-motion.gif
+  - assets/img/publication_preview/wave-mechanics.gif
+  - assets/img/publication_preview/skill_embeddings.png
 keep_files:
   - CNAME
   - .nojekyll
